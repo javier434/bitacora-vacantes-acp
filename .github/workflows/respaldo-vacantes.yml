@@ -1,0 +1,64 @@
+name: Respaldo vacantes ACP
+
+on:
+  schedule:
+    - cron: "7 22 * * *"   # 5:07 p. m. hora de Panamá, una vez al día
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: respaldo-vacantes
+
+jobs:
+  respaldo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Descargar vacantes
+        run: |
+          mkdir -p datos
+          python3 - <<'PY'
+          import json, time, urllib.request
+          from datetime import datetime, timezone, timedelta
+          API = "https://api.smartrecruiters.com/v1/companies/AutoridadDelCanalDePanama1/postings"
+          def get(url):
+              for i in range(4):
+                  try:
+                      req = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": "bitacora-vacantes-acp"})
+                      with urllib.request.urlopen(req, timeout=30) as r:
+                          return json.load(r)
+                  except Exception:
+                      if i == 3:
+                          raise
+                      time.sleep(5 * (i + 1))
+          ids, off, total = [], 0, None
+          while total is None or off < total:
+              page = get(f"{API}?limit=100&offset={off}")
+              total = page.get("totalFound")
+              cont = page.get("content") or []
+              ids += [p["id"] for p in cont]
+              if not cont:
+                  break
+              off += 100
+          posts = [get(f"{API}/{i}") for i in ids]
+          if not total or len(posts) != total or any("jobAd" not in p for p in posts):
+              raise SystemExit(f"Descarga incompleta: totalFound={total}, recibidas={len(posts)}")
+          now = datetime.now(timezone(timedelta(hours=-5))).replace(microsecond=0).isoformat()
+          posts.sort(key=lambda p: str(p["id"]))
+          with open("datos/actual.json", "w", encoding="utf-8") as f:
+              json.dump({"descargado": now, "totalFound": total, "postings": posts}, f, ensure_ascii=False, indent=1)
+          print(f"{now}: {total} vacantes")
+          for p in posts:
+              print("-", p.get("name"))
+          PY
+
+      - name: Guardar en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos
+          git diff --cached --quiet || { git commit -q -m "Vacantes $(TZ=America/Panama date +%F)"; git push -q; }
