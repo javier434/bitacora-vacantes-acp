@@ -1,5 +1,5 @@
 {
- "descargado": "2026-10-21T01:12:56-05:00",
+ "descargado": "2026-10-21T19:39:24-05:00",
  "totalFound": 7,
  "postings": [
   {
@@ -246,130 +246,6 @@
     "code": "es-MX",
     "label": "Spanish (LATAM)",
     "labelNative": "español (LATAM)"
-   }
-  },
-  {
-   "id": "3743990015262892",
-   "name": "REGISTROS ABIERTOS - TRABAJADOR EN ELECTRICIDAD (ALTO VOLTAJE)",
-   "uuid": "237d826e-5075-4989-b36c-e0c45774f8ed",
-   "jobId": "69d14d81-dd34-443e-a0f3-e0a2db64b941",
-   "jobAdId": "c01fb416-8667-4c14-830c-0c44d755e041",
-   "defaultJobAd": true,
-   "refNumber": "REF61P",
-   "company": {
-    "name": "Autoridad del Canal de Panamá",
-    "identifier": "AutoridadDelCanalDePanama1"
-   },
-   "location": {
-    "city": "Panama City",
-    "region": "Panamá Province",
-    "country": "pa",
-    "remote": false,
-    "hybrid": false,
-    "latitude": "8.9823792",
-    "longitude": "-79.51986959999999",
-    "fullLocation": "Panama City, Panamá Province, Panama"
-   },
-   "customField": [
-    {
-     "fieldId": "696140a6ac313c4a8eb1c7ab",
-     "fieldLabel": "Grado",
-     "valueId": "MG.00.08",
-     "valueLabel": "MG.00.08"
-    },
-    {
-     "fieldId": "COUNTRY",
-     "fieldLabel": "Country/Region",
-     "valueId": "pa",
-     "valueLabel": "Panama"
-    },
-    {
-     "fieldId": "6961433107d1a3c0c8411e50",
-     "fieldLabel": "Tipo de Contratación del puesto",
-     "valueId": "null",
-     "valueLabel": "null"
-    },
-    {
-     "fieldId": "69613ba2ac313c4a8eb1c7a9",
-     "fieldLabel": "Categoría de trabajo",
-     "valueId": "fa1b26a9-7371-44a1-bfba-22c9385204fa",
-     "valueLabel": "Ingeniería, mantenimiento y técnicos industriales"
-    },
-    {
-     "fieldId": "6961436a07d1a3c0c8411e51",
-     "fieldLabel": "Área Geográfica",
-     "valueId": "AMBAS ÁREAS",
-     "valueLabel": "AMBAS ÁREAS"
-    },
-    {
-     "fieldId": "696138dddf7ab15dc6353883",
-     "fieldLabel": "Siglas de oficina",
-     "valueId": "4abaad25-4f09-4ed1-b712-f27c13968cca",
-     "valueLabel": "CHC"
-    },
-    {
-     "fieldId": "69456ee8350d3426ea4feebb",
-     "fieldLabel": "Brands",
-     "valueId": "default",
-     "valueLabel": "Autoridad del Canal de Panamá"
-    },
-    {
-     "fieldId": "69613a6cdf7ab15dc6353884",
-     "fieldLabel": "Vicepresidencia",
-     "valueId": "CH",
-     "valueLabel": "CH"
-    }
-   ],
-   "releasedDate": "2026-09-15T14:53:57.071Z",
-   "creator": {
-    "name": "",
-    "avatarUrl": ""
-   },
-   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990015262892-registros-abiertos-trabajador-en-electricidad-alto-voltaje-",
-   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990015262892-registros-abiertos-trabajador-en-electricidad-alto-voltaje-?oga=true",
-   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/237d826e-5075-4989-b36c-e0c45774f8ed?dcr_ci=AutoridadDelCanalDePanama1",
-   "jobAd": {
-    "sections": {
-     "companyDescription": {
-      "title": "Descripción de la empresa",
-      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
-     },
-     "jobDescription": {
-      "title": "Descripción del empleo",
-      "text": "<p>El trabajador en electricidad (Alto Voltaje) realiza trabajos de instalación, inspección, reparación y mantenimiento en sistemas de transmisión y distribución eléctrica de alto voltaje, líneas aéreas y subterráneas, subestaciones, transformadores y equipos asociados, contribuyendo a la confiabilidad y continuidad de los sistemas eléctricos del Canal de Panamá.&#xa0;</p><p>Funciones principales:</p><p>• Instalar, conectar, inspeccionar y reparar líneas aéreas y subterráneas de transmisión y distribución eléctrica.<br>\n• Realizar mantenimiento a transformadores, interruptores, disyuntores, recerradores, aisladores y otros equipos de alto voltaje.<br>\n• Ejecutar inspecciones, patrullajes y levantamientos para verificar condiciones operativas de equipos e infraestructura eléctrica.<br>\n• Participar en la instalación, mantenimiento y reparación de subestaciones eléctricas y sistemas de comunicación asociados.<br>\n• Operar vehículos, equipos especializados, andamios y embarcaciones requeridas para el desempeño de las labores asignadas.&#xa0;</p><p><strong>Nota: Este anuncio no corresponde a una vacante abierta en este momento. Cuando surja una oportunidad, será notificado para que pueda competir. El registro tendrá una vigencia de un (1) año.</strong></p>"
-     },
-     "qualifications": {
-      "title": "Requisitos",
-      "text": "<ul><li>Nacionalidad panameña.</li><li>&#xa0;Licencia de conducir vigente.</li><li>Saber nadar.</li></ul><p>&#xa0;</p><p><em>Educación</em>:&#xa0;</p><ul><li>Bachiller en electricidad;&#xa0;o</li><li>Capacitación laboral en Electricidad(960 horas o más); o</li><li>Técnico superior en Electricidad Alto Voltaje.&#xa0;</li></ul><p><em>Experiencia de (2) dos años o más en:</em></p><p>• Instalación, mantenimiento y reparación de líneas aéreas y subterráneas de transmisión y distribución eléctrica.&#xa0;</p><p>•Trabajo en líneas y equipos eléctricos de alto voltaje, incluyendo sistemas de transmisión de 44 kV y 115 kV.</p><p>• Mantenimiento preventivo y correctivo de transformadores, interruptores, recerradores, disyuntores, aisladores y otros equipos eléctricos de alto voltaje.&#xa0;</p><p>• Inspección, diagnóstico y corrección de fallas en sistemas eléctricos de transmisión y distribución.&#xa0;</p><p>• Uso de herramientas manuales, herramientas eléctricas y equipos de medición y prueba eléctrica para la ejecución de trabajos de mantenimiento e instalación.</p><p>• Trabajos en postes, torres, subestaciones eléctricas y sistemas de distribución de energía, aplicando procedimientos y normas de seguridad eléctrica.</p><p>• Instalación, reparación y tendido de conductores, cables eléctricos y ductos asociados a sistemas de energía y comunicación.</p><p>• Operación de camiones, plataformas aéreas, andamios, montacargas y otros equipos utilizados en labores de mantenimiento eléctrico.&#xa0;</p><p>• Ejecución de patrullajes, inspecciones de campo e identificación de condiciones inseguras o anomalías en infraestructura eléctrica.&#xa0;</p><p><em>Conocimientos</em></p><p>• Principios de electricidad, elementos y sistemas de operación eléctrica.<br>\n• Riesgos eléctricos y normas de seguridad aplicables a trabajos de alto voltaje.<br>\n• Uso de herramientas manuales, eléctricas y equipos de prueba.<br>\n• Ley de Ohm, factor de potencia, transformadores, capacitores y circuitos eléctricos.<br>\n• Operación segura de montacargas, escaleras, andamios, plataformas aéreas y camión canasta.&#xa0;</p><p><em>Competencias requeridas</em></p><p>• Trabajo en equipo.<br>\n• Orientación a la seguridad.<br>\n• Responsabilidad.<br>\n• Atención al detalle.<br>\n• Capacidad para resolver problemas técnicos.</p><p>&#xa0;</p>"
-     },
-     "additionalInformation": {
-      "title": "Información adicional",
-      "text": "<ul><li><p>Disponibilidad para laborar después del horario regular, fines de semana y días feriados cuando sea requerido para atender trabajos de emergencia en equipos y sistemas críticos.<br>\n• Trabajo frecuente en alturas, torres, postes, instalaciones subterráneas y ambientes con exposición a condiciones climáticas diversas.</p></li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li><em>Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</em></li><li><em>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</em></li><li><em>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</em></li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
-     }
-    }
-   },
-   "active": true,
-   "visibility": "PUBLIC",
-   "industry": {
-    "id": "maritime",
-    "label": "Maritime"
-   },
-   "function": {
-    "id": "other",
-    "label": "Other"
-   },
-   "experienceLevel": {
-    "id": "not_applicable",
-    "label": "Not Applicable"
-   },
-   "typeOfEmployment": {
-    "id": "permanent",
-    "label": "Full-time"
-   },
-   "language": {
-    "code": "es",
-    "label": "Spanish",
-    "labelNative": "español"
    }
   },
   {
@@ -846,6 +722,130 @@
      "additionalInformation": {
       "title": "Información adicional",
       "text": "<ul><li><p>Disponibilidad para trabajar en turnos rotativos.</p></li><li><p>&#xa0;Podrá ser asignado a trabajar en el Pacífico o el Atlántico.</p></li><li><p>El trabajo se realiza en interiores y exteriores, incluyendo espacios confinados, equipos flotantes, andamios y plataformas suspendidas.</p></li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li><em>Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</em></li><li><em>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</em></li><li><em>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</em></li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "other",
+    "label": "Other"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "language": {
+    "code": "es",
+    "label": "Spanish",
+    "labelNative": "español"
+   }
+  },
+  {
+   "id": "3743990016302867",
+   "name": "REGISTROS ABIERTOS - TRABAJADOR EN ELECTRICIDAD (ALTO VOLTAJE)",
+   "uuid": "248438f7-3dff-4d97-894c-0d432e2d6b76",
+   "jobId": "69d14d81-dd34-443e-a0f3-e0a2db64b941",
+   "jobAdId": "c01fb416-8667-4c14-830c-0c44d755e041",
+   "defaultJobAd": true,
+   "refNumber": "REF61P",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "MG.00.08",
+     "valueLabel": "MG.00.08"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "null",
+     "valueLabel": "null"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "fa1b26a9-7371-44a1-bfba-22c9385204fa",
+     "valueLabel": "Ingeniería, mantenimiento y técnicos industriales"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "4abaad25-4f09-4ed1-b712-f27c13968cca",
+     "valueLabel": "CHC"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "CH",
+     "valueLabel": "CH"
+    }
+   ],
+   "releasedDate": "2026-10-21T15:09:12.676Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016302867-registros-abiertos-trabajador-en-electricidad-alto-voltaje-",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016302867-registros-abiertos-trabajador-en-electricidad-alto-voltaje-?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/248438f7-3dff-4d97-894c-0d432e2d6b76?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El trabajador en electricidad (Alto Voltaje) realiza trabajos de instalación, inspección, reparación y mantenimiento en sistemas de transmisión y distribución eléctrica de alto voltaje, líneas aéreas y subterráneas, subestaciones, transformadores y equipos asociados, contribuyendo a la confiabilidad y continuidad de los sistemas eléctricos del Canal de Panamá.&#xa0;</p><p>Funciones principales:</p><p>• Instalar, conectar, inspeccionar y reparar líneas aéreas y subterráneas de transmisión y distribución eléctrica.<br>\n• Realizar mantenimiento a transformadores, interruptores, disyuntores, recerradores, aisladores y otros equipos de alto voltaje.<br>\n• Ejecutar inspecciones, patrullajes y levantamientos para verificar condiciones operativas de equipos e infraestructura eléctrica.<br>\n• Participar en la instalación, mantenimiento y reparación de subestaciones eléctricas y sistemas de comunicación asociados.<br>\n• Operar vehículos, equipos especializados, andamios y embarcaciones requeridas para el desempeño de las labores asignadas.&#xa0;</p><p><strong>Nota: Este anuncio no corresponde a una vacante abierta en este momento. Cuando surja una oportunidad, será notificado para que pueda competir. El registro tendrá una vigencia de un (1) año.</strong></p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>&#xa0;Licencia de conducir vigente.</li><li>Saber nadar.</li></ul><p>&#xa0;</p><p><em>Educación</em>:&#xa0;</p><ul><li>Bachiller en electricidad;&#xa0;o</li><li>Capacitación laboral en Electricidad(960 horas o más); o</li><li>Técnico superior en Electricidad Alto Voltaje.&#xa0;</li></ul><p><em>Experiencia de (2) dos años o más en:</em></p><p>• Instalación, mantenimiento y reparación de líneas aéreas y subterráneas de transmisión y distribución eléctrica.&#xa0;</p><p>•Trabajo en líneas y equipos eléctricos de alto voltaje, incluyendo sistemas de transmisión de 44 kV y 115 kV.</p><p>• Mantenimiento preventivo y correctivo de transformadores, interruptores, recerradores, disyuntores, aisladores y otros equipos eléctricos de alto voltaje.&#xa0;</p><p>• Inspección, diagnóstico y corrección de fallas en sistemas eléctricos de transmisión y distribución.&#xa0;</p><p>• Uso de herramientas manuales, herramientas eléctricas y equipos de medición y prueba eléctrica para la ejecución de trabajos de mantenimiento e instalación.</p><p>• Trabajos en postes, torres, subestaciones eléctricas y sistemas de distribución de energía, aplicando procedimientos y normas de seguridad eléctrica.</p><p>• Instalación, reparación y tendido de conductores, cables eléctricos y ductos asociados a sistemas de energía y comunicación.</p><p>• Operación de camiones, plataformas aéreas, andamios, montacargas y otros equipos utilizados en labores de mantenimiento eléctrico.&#xa0;</p><p>• Ejecución de patrullajes, inspecciones de campo e identificación de condiciones inseguras o anomalías en infraestructura eléctrica.&#xa0;</p><p><em>Conocimientos</em></p><p>• Principios de electricidad, elementos y sistemas de operación eléctrica.<br>\n• Riesgos eléctricos y normas de seguridad aplicables a trabajos de alto voltaje.<br>\n• Uso de herramientas manuales, eléctricas y equipos de prueba.<br>\n• Ley de Ohm, factor de potencia, transformadores, capacitores y circuitos eléctricos.<br>\n• Operación segura de montacargas, escaleras, andamios, plataformas aéreas y camión canasta.&#xa0;</p><p><em>Competencias requeridas</em></p><p>• Trabajo en equipo.<br>\n• Orientación a la seguridad.<br>\n• Responsabilidad.<br>\n• Atención al detalle.<br>\n• Capacidad para resolver problemas técnicos.</p><p>&#xa0;</p>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li><p>Disponibilidad para laborar después del horario regular, fines de semana y días feriados cuando sea requerido para atender trabajos de emergencia en equipos y sistemas críticos.<br>\n• Trabajo frecuente en alturas, torres, postes, instalaciones subterráneas y ambientes con exposición a condiciones climáticas diversas.</p></li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li><em>Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</em></li><li><em>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</em></li><li><em>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</em></li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
      }
     }
    },
