@@ -1,6 +1,6 @@
 {
- "descargado": "2026-10-21T19:39:24-05:00",
- "totalFound": 7,
+ "descargado": "2026-10-22T19:36:55-05:00",
+ "totalFound": 8,
  "postings": [
   {
    "id": "3743990015246656",
@@ -871,6 +871,159 @@
     "code": "es",
     "label": "Spanish",
     "labelNative": "español"
+   }
+  },
+  {
+   "id": "3743990016343056",
+   "name": "CAPITÁN DE BARCAZA DE PERFORACIÓN EN ADIESTRAMIENTO",
+   "uuid": "49bd2f78-259f-408d-88a1-afb78ef6bd7c",
+   "jobId": "8514a554-df77-4a55-bd35-b98480a172b1",
+   "jobAdId": "51ddcf3c-0108-4642-9009-987571ecf727",
+   "defaultJobAd": true,
+   "refNumber": "CAP BARCAZA PERFORACIÓN ADIES FE.00.11 INCD-PS 178134",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "501370.CAP RESPONS DE BARCAZA DE PERF.57820.049.5",
+     "valueLabel": "501370.CAP RESPONS DE BARCAZA DE PERF.57820.049.5"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "FE.00.11",
+     "valueLabel": "FE.00.11"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "949ca64a-78cb-44d1-908d-d87061fbd725",
+     "valueLabel": "Operaciones Marítimas y de Tránsito"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "8053ef8a-8068-4beb-984e-2a8463765983",
+     "valueLabel": "INCD-PS"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2209110",
+     "valueLabel": "2209110"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "178134"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "IN",
+     "valueLabel": "IN"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "0dfac635-e077-4b5b-95fe-ed8c4294080f",
+     "valueLabel": "PEREZ OVALLES, RICARDO APOLINAR"
+    }
+   ],
+   "releasedDate": "2026-10-22T15:55:48.662Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016343056-capitan-de-barcaza-de-perforacion-en-adiestramiento",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016343056-capitan-de-barcaza-de-perforacion-en-adiestramiento?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/49bd2f78-259f-408d-88a1-afb78ef6bd7c?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>Esta convocatoria corresponde a un programa de adiestramiento: la Autoridad del Canal de Panamá forma al participante, dentro de la operación real, para desempeñarse como capitán encargado del turno a bordo de una barcaza de perforación. Durante el programa, el participante trabaja bajo supervisión y va asumiendo de forma progresiva las funciones del puesto, hasta estar en capacidad de ejercerlas por cuenta propia y de obtener la licencia que exige el puesto.</p><p>Al concluir el programa, el titular es responsable de dirigir, durante su turno de guardia, las operaciones de perforación y voladura subacuática que se realizan a bordo de la barcaza de perforación del Canal, y de mantener la continuidad, el mantenimiento y la seguridad de esa operación. Este trabajo sostiene los programas de mantenimiento y mejoramiento del cauce de navegación, por lo que se coordina de forma permanente con las unidades de operación del Canal para no interrumpir el tránsito de naves. Es un puesto de mando por turno: dirige al personal de perforación y voladura asignado a su guardia y reemplaza en todas sus funciones al capitán responsable de la barcaza. El trabajo se realiza en un ambiente marítimo de alto riesgo, con manejo de grandes cantidades de explosivos, y en turnos rotativos.</p><p><em>Funciones principales</em></p><p>Estas son las funciones que enseña el programa y que el titular ejerce al completarlo. Durante el adiestramiento se practican bajo supervisión.</p><ul><li>Dirigir las operaciones continuas de perforación y voladura de su guardia: alinear la barcaza con los patrones de perforación y retirarla a una distancia segura una vez que el patrón está perforado y cargado.</li><li>Responder por la carga, el manejo y la detonación segura y eficiente de los explosivos y materiales de perforación.</li><li>Coordinar con las unidades de operación del Canal las voladuras y la limpieza de los patrones, sin interrumpir el tránsito normal de naves.</li><li>Supervisar al personal de su guardia (líder explosivista y operadores de equipo de perforación), distribuir el trabajo y hacer cumplir las normas de seguridad, con autoridad para detener las labores ante cualquier condición insegura.</li><li>Inspeccionar la maquinaria y el equipo durante la guardia, coordinar diagnósticos y reparaciones con el maquinista, conducir simulacros de incendio y reuniones de seguridad, y reportar necesidades de mantenimiento y mejoras.</li><li>Llevar la bitácora de la guardia (eventos, asistencia y patrones de voladura), los registros de mantenimiento e inventarios, y preparar informes diarios de avance y semanales de explosivos, materiales y brocas, incluido el costo de broca por pie cuadrado perforado.</li><li>Apoyar en la preparación de especificaciones y la evaluación de ofertas para la compra de explosivos, detonadores, herramientas y equipo, y solicitar por medio del capitán responsable los suministros y repuestos de la operación.</li></ul><p>Tipo de contratación: temporal.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<p>Para ingresar al programa se requiere, sin excepción:</p><ul><li>Nacionalidad panameña.</li><li>Idioma inglés. Aprobar examen de inglés nivel B1+.</li><li>Natación. Aprobar examen de natación.</li><li>Licencia de conducir. Licencia de conducir vigente.</li><li>Requisitos físicos. Cumplir con los requisitos físicos que establecen la Junta de Inspectores y la Autoridad del Canal de Panamá para las funciones de este puesto.</li></ul><p><em>Requisito posterior al ingreso:</em></p><ul><li>Licencia. El puesto exige la licencia de Capitán de Equipo Flotante de Dragado sin Autopropulsión, expedida por la Junta de Inspectores, que debe obtenerse dentro de los noventa (90) días siguientes al primer día de trabajo en el puesto. El programa prepara para cumplir con este requisito.</li></ul><p>Se realizan pruebas a los candidatos para comprobar los conocimientos, destrezas, habilidades y competencias que exige el puesto (por ejemplo, pruebas psicológicas o de dominio del idioma inglés).</p><p><em>Educación</em></p><p>Requisito básico:<strong> </strong>Ser egresado de un programa para Oficiales de Cubierta de una escuela náutica o academia marítima cuyos programas académicos cumplan con el Convenio Internacional sobre Normas de Formación, Titulación y Guardia para la Gente de Mar, 1978/95, (STCW) de la Organización Marítima Internacional (OMI).</p><p><em>Experiencia</em></p><p>Qué necesitas</p><p>Para desempeñarte como Capitán de Barcaza de Perforación necesitas experiencia como oficial de cubierta en equipo flotante de dragado sin autopropulsión, acreditada de una de estas dos formas:</p><ul><li>Haber completado el programa de adiestramiento del Canal para Oficiales de Cubierta de equipo flotante sin autopropulsión y tener al menos 12 meses de experiencia como Oficial en la cubierta de ese tipo de equipo; o</li><li>Tener 4 años de experiencia como Oficial de Dragas y contar con la licencia de Oficial de Equipo Flotante de Dragado sin Autopropulsión del Canal, vigente o vencida.</li></ul><p><em>Cómo puedes completarla</em></p><p>Cuentan las guardias cumplidas a bordo de equipo flotante cuya misión principal sea alguna de estas:</p><ul><li>Perforación subacuática y voladura con explosivos de alto calibre.</li><li>Operación de equipo flotante de dragado sin autopropulsión de 2&#xa0;000 kW de potencia o más.</li><li>Operación de grúas flotantes sin autopropulsión con capacidad de izado de 75 toneladas o más.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<p><em>Conocimientos y habilidades</em></p><p>Estos son los conocimientos y habilidades que el programa desarrolla y evalúa:</p><ul><li>Operación de barcazas de perforación y perforadoras, y maniobra y posicionamiento de equipo flotante sin autopropulsión.</li><li>Voladura subacuática y manejo seguro de explosivos, detonadores y materiales de voladura.</li><li>Normas de seguridad para el trabajo marítimo y con explosivos, identificación de peligros y prevención de incendios.</li><li>Supervisión de personal a bordo: distribución del trabajo, capacitación en seguridad y trabajo con autonomía.</li><li>Comunicación oral y escrita en español e inglés, y coordinación con otras unidades de la operación del Canal.</li><li>Elaboración de bitácoras, registros de mantenimiento, inventarios e informes diarios y semanales.</li><li>Cálculo de consumos y costos de operación, y apoyo en especificaciones y evaluación de ofertas de compra.</li><li>Disposición para el aprendizaje continuo y para cumplir las evaluaciones y adiestramientos del programa.</li></ul><p><em>Competencias</em></p><ul><li>Seguridad operacional. Competencia central del puesto: responde por la seguridad de la barcaza, del personal y de la voladura durante todo el turno.</li><li>Liderazgo de guardia. Dirige al personal de su turno y lleva el control de su asistencia.</li><li>Toma de decisiones bajo presión. Resuelve situaciones críticas en operaciones con explosivos y en un entorno de tránsito activo.</li><li>Coordinación y comunicación. Mantiene una interlocución efectiva con las unidades de operaciones del Canal y con el Capitán Responsable.</li><li>Planificación. Secuencia las etapas de perforación, carga, retiro y detonación sin afectar el tránsito.</li><li>Rigor y atención al detalle. Lo exigen la bitácora, el control de inventario de explosivos y los reportes.</li><li>Orientación a la eficiencia y el costo. Da seguimiento al consumo de brocas y materiales y evalúa ofertas.</li><li>Responsabilidad y cumplimiento normativo. El manejo de materiales peligrosos requiere apego estricto a procedimientos.</li></ul><p><em>Otras condiciones</em></p><ul><li>El adiestramiento se cumple en la operación real, a bordo de la barcaza de perforación, en turnos rotativos de guardia y bajo la supervisión del capitán responsable.</li><li>Disponibilidad para atender emergencias y trabajar fuera del horario regular; según las necesidades operativas, puede requerirse trabajar jornadas extendidas para mantener al mínimo la interrupción del tránsito por el Canal.</li><li>Ambiente de alto riesgo por el manejo de grandes cantidades de explosivos, con peligro de explosión accidental. El contacto con explosivos puede causar dolor de cabeza fuerte, irritación en la piel o cansancio.</li><li>Exposición a los peligros propios de las operaciones marítimas, en especial en cubierta y cerca de buques en tránsito, así como a la intemperie, fallas de equipo y alta exigencia mental. Las torres de perforación aumentan el riesgo de impacto de rayos durante tormentas eléctricas.</li><li>Embarque y desembarque de equipos flotantes, incluso en operación, desde muelles, lanchas, remolcadores y riberas, y trabajo sobre cubiertas resbalosas, lodosas o grasosas, de día o de noche y con lluvia, neblina, viento u oleaje.</li></ul><p><em>Documentos requeridos </em></p><p>Adjunta:</p><p>1. Hoja de vida<br>\nPresenta una hoja de vida legible, de máximo 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</p><p>Por cada experiencia laboral relevante que respalde los requisitos, indica:</p><ul><li>nombre del empleador;</li><li>nombre del barco;</li><li>cargo o posición;</li><li>funciones principales y logros;</li><li>fecha de inicio y de fin (mes/año).</li></ul><p>2. Documentos de respaldo<br>\nAdjunta lo siguiente:</p><ul><li>licencia de conducir;</li><li>licencias marítimas que poseas;</li><li>cartas o certificaciones que acrediten tu experiencia a bordo;</li><li>diploma de la escuela náutica o academia marítima.</li></ul><p>3. Acceso a la plataforma (luego de completar)<br>\nPara ingresar y actualizar tu información personal y profesional, usa el enlace del correo que el sistema te envió automáticamente al registrarte.</p><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 26.41,
+    "max": 26.41,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
    }
   }
  ]
