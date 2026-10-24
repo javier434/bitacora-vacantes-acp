@@ -1,6 +1,6 @@
 {
- "descargado": "2026-10-22T19:36:55-05:00",
- "totalFound": 8,
+ "descargado": "2026-10-23T19:36:03-05:00",
+ "totalFound": 10,
  "postings": [
   {
    "id": "3743990015246656",
@@ -1024,6 +1024,310 @@
     "code": "es-MX",
     "label": "Spanish (LATAM)",
     "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990016387315",
+   "name": "ASISTENTE DE EXONERACIONES Y TRÁMITES ADUANEROS ",
+   "uuid": "eead2cdf-cb12-42ec-8e1c-df702d3e3461",
+   "jobId": "aadc0e2c-b401-4f31-93c8-49fa8f97eeee",
+   "jobAdId": "e35e8927-8938-457b-8c66-3b920d4e4604",
+   "defaultJobAd": true,
+   "refNumber": "ASIST DE EXON Y TRÁM ADUANEROS NM.00.05 FIO-AC 177227",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panamá",
+    "region": "Panamá",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Panamá, Panamá, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "730327.SUPV, ANALISTA ADMINISTRATIVO.03430.004.11",
+     "valueLabel": "730327.SUPV, ANALISTA ADMINISTRATIVO.03430.004.11"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.05",
+     "valueLabel": "NM.00.05"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "f0abe381-bd2b-4932-b8a4-35a4a8a26601",
+     "valueLabel": "Administración y gestión de proyectos"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "b10e4149-7fd1-4713-ad87-600e9e1e1929",
+     "valueLabel": "FIO-AC"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2333104",
+     "valueLabel": "2333104"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "177227"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "FI",
+     "valueLabel": "FI"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "429e6197-bdbc-4b4e-b6a5-5c506edf8bbf",
+     "valueLabel": "ABREGO ALDENIS, JORGE LUIS"
+    }
+   ],
+   "releasedDate": "2026-10-23T20:24:07.213Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016387315-asistente-de-exoneraciones-y-tramites-aduaneros-",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016387315-asistente-de-exoneraciones-y-tramites-aduaneros-?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/eead2cdf-cb12-42ec-8e1c-df702d3e3461?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El Asistente de Exoneraciones y Trámites Aduaneros es responsable de revisar, procesar y emitir la documentación requerida para la importación y reexportación de mercancías, así como gestionar trámites de exoneración y liquidación aduanera, garantizando el cumplimiento de las leyes, regulaciones y procedimientos aplicables.</p><p>Funciones principales:&#xa0;</p><ul><li>Revisar, verificar y procesar documentación de embarque y declaraciones aduaneras para trámites de importación, reexportación y exoneración.</li><li>Registrar, analizar y gestionar información en los sistemas aduaneros y financieros correspondientes.</li><li>Preparar y aprobar formularios, solicitudes de exoneración y declaraciones aduaneras ante las autoridades competentes.</li><li>&#xa0;Coordinar con entidades gubernamentales, proveedores, agentes de carga y otras partes involucradas en los procesos aduaneros.</li><li>&#xa0;Mantener y administrar los expedientes y archivos relacionados con los trámites de exoneración y liquidación aduanera.&#xa0;</li></ul><p>Tipo de contratación:&#xa0;Temporal.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente. Se debe adjuntar una copia legible de la licencia de conducir vigente para validar el cumplimiento de este requisito.</li><li>Inglés a nivel intermedio&#xa0;(hablar, leer y escribir)</li></ul><p><em>Educación (No excluyente):</em></p><ul><li>Licenciatura completa (título universitario obtenido).&#xa0;&#xa0;Se debe adjuntar una copia legible del diploma universitario que acredite el cumplimiento de este requisito.</li><li>Licenciatura en Administración Pública Aduanera (deseable)</li></ul><p><em>Experiencia de un (1) año o más en:</em></p><ul><li>Trámites de exoneración y liquidación aduanera.</li><li>Procesos de importación y reexportación de mercancías.</li><li>Revisión y manejo de documentación aduanera y de embarque.</li><li>Uso de aplicaciones de oficina y herramientas informáticas para la gestión documental.</li><li>&#xa0;Atención y coordinación con entidades gubernamentales, proveedores y clientes internos y externos</li></ul><p><em>Conocimientos en:</em></p><ul><li>Legislación aduanera de la República de Panamá y tabla de aranceles.</li><li>&#xa0;Sistema Integrado de Gestión Aduanera (SIGA) y Sistema Financiero Oracle.</li><li>Procesos de exoneración y liquidación aduanera.</li><li>&#xa0;Políticas, reglamentos y procedimientos relacionados con operaciones de abastecimiento y exoneraciones.</li><li>&#xa0;INCOTERMS y terminología utilizada en los sectores marítimo&#xa0;y aduanero.</li><li>Microsoft Word, Excel, PowerPoint y SharePoint.</li></ul><p><em>Competencias en:&#xa0;</em></p><ul><li>Atención al detalle.</li><li>Análisis y resolución de problemas.</li><li>Comunicación verbal y escrita.</li><li>Organización y manejo documental.</li><li>Orientación al servicio al cliente.</li><li>Trabajo en equipo.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>El puesto requiere desplazarse a instalaciones de entidades gubernamentales y otros organismos relacionados con los procesos de exoneración y declaración aduanera.</li><li>&#xa0;Requiere interacción frecuente con entidades gubernamentales, proveedores, agentes de carga y otras unidades de negocio.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>&#xa0;Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>&#xa0;Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 10.88,
+    "max": 10.88,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es",
+    "label": "Spanish",
+    "labelNative": "español"
+   }
+  },
+  {
+   "id": "3743990016388866",
+   "name": "ESPECIALISTA EN CUMPLIMIENTO",
+   "uuid": "79569bd4-94ef-4ac5-a7b4-0b526f4ee372",
+   "jobId": "8036e293-edfd-4ef3-8bf4-340c3d95a453",
+   "jobAdId": "ba859872-889d-4596-a8cf-eb4106a05c8f",
+   "defaultJobAd": true,
+   "refNumber": "ESPECIALISTA EN CUMPLIMIENTO NM.00.11 FGI-EC 173457",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "7378e7b7-7587-4057-be6f-d66ffaa07248",
+     "valueLabel": "070078.OFICIAL DE CUMPLIMIENTO.03010.778.2"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.11",
+     "valueLabel": "NM.00.11"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "49244aca-274a-41b0-a5d4-6f2361f2ffa4",
+     "valueLabel": "Permanente"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "19c3c6e3-dc57-40a5-9fd0-144435534101",
+     "valueLabel": "Legal, cumplimiento y asuntos corporativos"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "e09b08a8-0f16-4277-a09b-da28257eff66",
+     "valueLabel": "PACÍFICO"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "959d00b8-52c9-483a-9e7b-15316745b9be",
+     "valueLabel": "FGI-EC"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "f72760ec-6304-4f1f-b423-9c8e95687788",
+     "valueLabel": "2841738"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "173457"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "FG",
+     "valueLabel": "FG"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "f3720430-ea14-4403-bf1f-f459a49e61a1",
+     "valueLabel": "DOMINGUEZ SAAVEDRA DE PITTI, MILENA ZULAY"
+    }
+   ],
+   "releasedDate": "2026-10-23T21:07:49.652Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016388866-especialista-en-cumplimiento",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016388866-especialista-en-cumplimiento?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/79569bd4-94ef-4ac5-a7b4-0b526f4ee372?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El Especialista en Cumplimiento forma parte del Equipo de Cumplimiento de la Autoridad del Canal de Panamá y tiene la responsabilidad de ejecutar técnicamente los componentes del Sistema de Gestión de Cumplimiento, asegurando la correcta interpretación, implementación y seguimiento de las obligaciones legales y regulatorias aplicables. Además, contribuye a la prevención, detección y gestión de riesgos de incumplimiento normativo, apoyando la toma de decisiones mediante análisis técnicos especializados.</p><p><strong>Funciones principales:</strong></p><ul><li>Administrar y mantener actualizada la matriz de cumplimiento normativo, incluyendo riesgos, controles, evidencias, brechas y responsables.</li><li>Evaluar riesgos de cumplimiento, controles internos y planes de acción, formulando recomendaciones técnicas de mitigación y mejora.</li><li>Gestionar el seguimiento del Programa de Cumplimiento y sus indicadores, asegurando su ejecución, trazabilidad y efectividad.</li><li>Analizar incidentes, alertas e incumplimientos normativos, coordinando las acciones correspondientes conforme a los protocolos establecidos.</li><li>Diseñar y coordinar actividades de capacitación, así como formular propuestas técnicas de políticas, procedimientos y controles relacionados con cumplimiento.&#xa0;</li></ul><p><strong>Tipo de contratación:</strong> Permanente.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Inglés avanzado (hablar, leer y escribir).</li><li>Licencia de conducir vigente.</li></ul><p><em>Educación:</em></p><ul><li>Título universitario completo en alguna de las siguientes carreras:&#xa0;Contabilidad, Ingeniería Industrial, Derecho o carreras afines relacionadas con Cumplimiento, Finanzas, Auditoría o Gestión de Riesgos.</li><li>Deseable certificaciones profesionales relacionadas con cumplimiento, tales como ISO 37301, ISO 37001 o certificaciones equivalentes en cumplimiento normativo, riesgos, auditoría o controles internos.</li></ul><p><em>Experiencia de 3 años o más en:</em></p><ul><li>Participación en el&#xa0;diseño&#xa0;y mejora continua de programas de cumplimiento.</li><li>Evaluación de riesgos de cumplimiento y efectividad de controles internos.</li><li>Implantación, seguimiento y documentación de controles y planes de acción derivados de evaluaciones de riesgos.</li><li>Gestión técnica de procesos de cumplimiento, riesgos y controles internos.</li><li>Elaboración de informes técnicos y ejecutivos relacionados con cumplimiento normativo.</li></ul><p><em>Conocimientos en:</em></p><ul><li>Sistemas de Gestión de Cumplimiento y mejores prácticas de cumplimiento normativo.</li><li>Prevención de lavado de activos, financiamiento del terrorismo y proliferación de armas de destrucción masiva (AML/BC/FPADM).</li><li>Prácticas antisoborno y anticorrupción (ABAC).</li><li>Gestión de riesgos, controles internos y Marco COSO.</li><li>Gobierno Corporativo y criterios ESG (ambientales, sociales y de gobernanza).</li><li>Interpretación y aplicación de leyes, reglamentos y normas.</li><li>Seguridad industrial, tecnológica y ciberseguridad aplicables a la Autoridad.&#xa0;</li></ul><p>Competencias requeridas:</p><ul><li>Pensamiento crítico y analítico para evaluar información compleja y proponer soluciones fundamentadas.</li><li>Comunicación efectiva y asertiva.</li><li>Liderazgo técnico y colaboración interfuncional.</li><li>Resolución de conflictos y negociación.</li><li>Creatividad e innovación orientadas a la mejora continua.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Disponibilidad para trasladarse a diferentes oficinas o instalaciones dentro y fuera de la Autoridad.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya: • Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 24.75,
+    "max": 24.75,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es",
+    "label": "Spanish",
+    "labelNative": "español"
    }
   }
  ]
