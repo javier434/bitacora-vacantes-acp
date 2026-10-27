@@ -1,6 +1,6 @@
 {
- "descargado": "2026-10-25T19:15:33-05:00",
- "totalFound": 9,
+ "descargado": "2026-10-26T20:26:54-05:00",
+ "totalFound": 12,
  "postings": [
   {
    "id": "3743990015246656",
@@ -1204,6 +1204,459 @@
     "code": "es",
     "label": "Spanish",
     "labelNative": "español"
+   }
+  },
+  {
+   "id": "3743990016415821",
+   "name": "ESPECIALISTA EN PROTECCIÓN AMBIENTAL (SISTEMAS DE INFORMACIÓN GEOGRÁFICA)",
+   "uuid": "9f73b4c1-9f82-4330-b65d-37ddea742756",
+   "jobId": "1c28bf9c-abe0-42f6-827b-4c9ac8e89987",
+   "jobAdId": "f9891c56-05b1-4a76-ae8b-9166736a6c62",
+   "defaultJobAd": true,
+   "refNumber": "ESPEC EN PROTECCIÓN AMBIENTAL NM.00.09 HI-CICH 178087",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama",
+    "country": "pa",
+    "address": "EDIF. 560, COROZALBalboa",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Panama, , Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "320309.GRTE COORDINACIÓN DE LA CICH.03010.704.1",
+     "valueLabel": "320309.GRTE COORDINACIÓN DE LA CICH.03010.704.1"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.09",
+     "valueLabel": "NM.00.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "5ea6283b-fa11-4a61-91b3-f5ae56fff344",
+     "valueLabel": "Ciencias ambientales e investigación"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "c1fcc409-0e85-4009-9405-ba350729a03e",
+     "valueLabel": "HI-CICH"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2746701",
+     "valueLabel": "2746701"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "178087"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "HI",
+     "valueLabel": "HI"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "e565c1a0-22c9-4f04-a465-5489d2091ef1",
+     "valueLabel": "AYALA GNAEGI, MARIAEUGENIA"
+    }
+   ],
+   "releasedDate": "2026-10-26T19:58:09.028Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016415821-especialista-en-proteccion-ambiental-sistemas-de-informacion-geografica-",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016415821-especialista-en-proteccion-ambiental-sistemas-de-informacion-geografica-?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/9f73b4c1-9f82-4330-b65d-37ddea742756?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El Especialista en Protección Ambiental planifica, organiza y ejecuta análisis, estudios, actividades y proyectos relacionados con la protección ambiental, la gestión integrada de los recursos hídricos y el ordenamiento territorial ambiental, con énfasis en el uso de sistemas de información geográfica (SIG), sensores remotos y tecnologías geoespaciales que apoyan la planificación, monitoreo y seguimiento de la Cuenca Hidrográfica del Canal de Panamá.<br>\n<br>\nFunciones principales:</p><ul><li>Recopilar, procesar, analizar e interpretar información geoespacial proveniente de fuentes institucionales, públicas, de campo y sensores remotos.</li><li>Generar, revisar y validar estudios, informes, mapas temáticos, bases de datos geoespaciales, indicadores y otros productos técnicos.</li><li>Mantener y actualizar plataformas institucionales de información para el seguimiento de iniciativas, programas y proyectos ambientales y territoriales.</li><li>Realizar visitas de campo, inspecciones y verificaciones técnicas vinculadas con proyectos y análisis ambientales.</li><li>Participar en proyectos de conservación, gestión de recursos hídricos, calidad ambiental y ordenamiento territorial, brindando apoyo técnico especializado.</li></ul><p>Tipo de contratación: Temporal.<br>\n&#xa0;</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente.</li><li>Saber nadar.</li><li>Leer inglés.<br>\n<br>\n<br>\n&#xa0;</li></ul><p><em>Educación</em></p><ul><li>Título universitario en ciencias ambientales o disciplinas relacionadas al manejo de recursos naturales.</li><li>Título de Maestría en estudios directamente relacionados. (No excluyente).</li></ul><p><br>\n&#xa0;</p><p><em>Experiencia de dos (2) años o más en:</em></p><ul><li>Protección ambiental y conservación de recursos naturales.</li><li>Gestión integrada de recursos hídricos.</li><li>Sistemas de Información Geográfica (SIG) y sensores remotos.</li><li>Elaboración y análisis de información geoespacial y territorial.</li><li>Trabajo de campo relacionado con gestión ambiental y recursos naturales.</li></ul><p>&#xa0;</p><p>&#xa0;</p><p><em>Conocimientos en:</em></p><ul><li>Ciencias ambientales y disciplinas relacionadas con el manejo y gestión de recursos naturales.</li><li>Sistemas de Información Geográfica (SIG), sensores remotos y herramientas geoespaciales.</li><li>Manejo de Software de sistemas de información geográfica como ArcGIS (deseable).</li><li>Variables ambientales tales como vegetación, fauna, suelos y aspectos hídricos.</li><li>Protección y conservación ambiental, desarrollo sostenible y gestión integrada de recursos hídricos.</li><li>Políticas, leyes, reglamentos, normas y procedimientos aplicables a la protección ambiental en Panamá.</li><li>Formulación y gestión de proyectos, elaboración de propuestas técnicas y términos de referencia.</li><li>Microsoft Office (Word, Excel, Outlook y PowerPoint) y herramientas para gestión de proyectos.</li></ul><p>&#xa0;</p><p>&#xa0;</p><p><em>Competencias requeridas:</em></p><ul><li>Capacidad de análisis de información para la toma de decisiones objetivas e informadas.</li><li>Comunicación oral y escrita efectiva.</li><li>Elaboración de documentos e informes técnicos.</li><li>Adaptabilidad y respuesta efectiva ante situaciones cambiantes.</li><li>Trabajo colaborativo en equipos interdisciplinarios y multidisciplinarios.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Disponibilidad para trabajar en áreas remotas o de difícil acceso, realizando caminatas, desplazamientos a caballo y traslados en cayucos o motor fuera de borda.</li><li>Disponibilidad para laborar sábados, domingos, feriados y jornadas superiores a ocho (8) horas cuando sea requerido.</li><li>El trabajo combina actividades de oficina y campo, incluyendo desplazamientos dentro de la Cuenca Hidrográfica del Canal de Panamá y otras áreas de interés.</li><li>Puede requerirse pernoctar en áreas de trabajo según las necesidades operativas.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "max": 20.68,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990016418656",
+   "name": "AGRÓNOMO - (COCLÉ)",
+   "uuid": "b623360f-a5b2-4b58-a976-089676791af5",
+   "jobId": "ea75b6de-dfd5-43c8-9d0e-e77ec8fdf84d",
+   "jobAdId": "ea086d45-c457-409f-a419-1ec791f2ef1d",
+   "defaultJobAd": true,
+   "refNumber": "AGRÓNOMO NM.03.09 HIS-RP 179069",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Penonomé",
+    "region": "Coclé",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Penonomé, Coclé, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "320372.GRTE DE SOST SOCIOAMBIENTAL.03400.128.1",
+     "valueLabel": "320372.GRTE DE SOST SOCIOAMBIENTAL.03400.128.1"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.03.09",
+     "valueLabel": "NM.03.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "5ea6283b-fa11-4a61-91b3-f5ae56fff344",
+     "valueLabel": "Ciencias ambientales e investigación"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "6528c49f-5465-4e45-8a6d-c341843d21e2",
+     "valueLabel": "HIS-RP"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2342596",
+     "valueLabel": "2342596"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "179069"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "HI",
+     "valueLabel": "HI"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "a7dabbd9-233c-4b93-8c38-35776c3885ea",
+     "valueLabel": "MARTINEZ DOMINGUEZ, RAUL ENRIQUE"
+    }
+   ],
+   "releasedDate": "2026-10-26T21:00:53.322Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016418656-agronomo-cocle-",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016418656-agronomo-cocle-?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/b623360f-a5b2-4b58-a976-089676791af5?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El agrónomo es responsable de planificar, desarrollar y dar seguimiento a iniciativas de producción agropecuaria sostenible en la cuenca del Canal de Panamá, promoviendo prácticas que fortalezcan la productividad de los productores, la conservación de los recursos naturales y la restauración ambiental. El puesto participa en el diseño e implementación de modelos agroforestales, silvopastoriles y de agricultura sostenible, brindando asesoría técnica, coordinación de proyectos y apoyo especializado para contribuir a la protección del recurso hídrico y al desarrollo sostenible de las comunidades de la cuenca</p><p>Funciones principales:&#xa0;</p><ul><li>Planificar y dar seguimiento a la ejecución de programas de agricultura sostenible en la cuenca del Canal.</li><li>Diseñar sistemas y modalidades de producción agropecuaria que aseguren una producción eficiente y sostenible.</li><li>&#xa0;Desarrollar y aplicar métodos y prácticas silviculturales, agroforestales y de restauración ambiental.</li><li>Coordinar, supervisar y dar seguimiento a proyectos, contratistas, estudios y servicios relacionados con la producción agropecuaria sostenible.</li><li>Brindar asesoría técnica, capacitación y apoyo en campo a productores, comunidades y personal relacionado con los proyectos.</li></ul><p>Tipo de contratación:&#xa0;Temporal.</p><p><strong>Este puesto está ubicado en la provincia de Coclé.</strong></p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente. Se debe adjuntar una copia legible de la licencia de conducir vigente para validar el cumplimiento de este requisito.</li><li>Leer inglés a nivel básico.</li><li>Saber nadar.</li><li>Idoneidad vigente como Ingeniero Agrónomo, expedida por el Consejo Técnico Nacional de Agricultura (CTNA).</li></ul><p><em>Educación:&#xa0;</em></p><ul><li>Título universitario completo de Licenciatura en Ingeniería Agrónoma.</li><li>Título de maestría en áreas directamente relacionadas con la Ingeniería Agrónoma. (No excluyente).</li></ul><p><em>Experiencia de dos (2) años o más en:</em></p><ul><li>Agricultura sostenible y aplicación de prácticas orientadas a la conservación de los recursos naturales y la protección del recurso hídrico.</li><li>Producción agropecuaria, incluyendo planificación de fincas, cultivos, manejo de suelos y sistemas de producción sostenible.</li><li>Desarrollo, implementación y seguimiento de proyectos agroforestales, silvopastoriles, reforestación, restauración ambiental o manejo sostenible de recursos naturales.</li><li>&#xa0;Planificación, coordinación y seguimiento de programas, proyectos, contratos o servicios relacionados con el sector agrícola y ambiental.</li><li>&#xa0;Asistencia técnica, capacitación y acompañamiento a productores, asociaciones comunitarias o comunidades rurales en temas agropecuarios y ambientales.</li><li>Elaboración de propuestas técnicas, términos de referencia, informes y seguimiento de proyectos.</li></ul><p><em>Conocimientos en:</em></p><ul><li>Ciencias agronómicas: botánica, fisiología vegetal, producción animal y vegetal, nutrición animal, entomología, microbiología, genética, ecología, riego y drenaje.</li><li>Manejo de suelos, climatología agrícola, maquinaria e implementos agrícolas y construcciones rurales.</li><li>Bosques, dendrología, métodos de reforestación, sistemas de agronomía y cosecha.</li><li>Aspectos medioambientales, recursos naturales, uso de la tierra, cobertura boscosa y cambio climático.</li><li>Formulación y gestión de proyectos, elaboración de propuestas técnicas y términos de referencia.</li><li>Microsoft Office (Word, Excel, Outlook y PowerPoint).</li></ul><p><em>Competencias en:&#xa0;</em></p><ul><li>Planificación y organización.</li><li>Análisis y solución de problemas.</li><li>Relaciones interpersonales.</li><li>Negociación y manejo&#xa0;de conflictos.</li><li>Trabajo en equipo y coordinación interinstitucional.</li><li>Orientación a resultados.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Disponibilidad para realizar trabajo de campo frecuente, laborar jornadas especiales, fines de semana y días feriados, trasladarse y pernoctar en la provincia de Coclé o fuera de su lugar de residencia, según las necesidades del servicio.</li><li>Podrá ser asignado a trabajar en el sector Pacífico o Atlántico.&#xa0;</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>&#xa0;Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 20.58,
+    "max": 20.58,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990016420266",
+   "name": "ESPECIALISTA EN PROTECCIÓN AMBIENTAL",
+   "uuid": "46f4601d-0858-4c73-8441-faa27536b255",
+   "jobId": "78c430b7-fef7-4227-8f81-bfa9bc865eee",
+   "jobAdId": "54f6b927-2a54-4a47-838c-c1cb00d47492",
+   "defaultJobAd": true,
+   "refNumber": "ESPEC EN PROTECCIÓN AMBIENTAL NM.00.09 HI-CICH 178085",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "320309.GRTE COORDINACIÓN DE LA CICH.03010.704.1",
+     "valueLabel": "320309.GRTE COORDINACIÓN DE LA CICH.03010.704.1"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.09",
+     "valueLabel": "NM.00.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "5ea6283b-fa11-4a61-91b3-f5ae56fff344",
+     "valueLabel": "Ciencias ambientales e investigación"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "c1fcc409-0e85-4009-9405-ba350729a03e",
+     "valueLabel": "HI-CICH"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2746701",
+     "valueLabel": "2746701"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "178085"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "HI",
+     "valueLabel": "HI"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "e565c1a0-22c9-4f04-a465-5489d2091ef1",
+     "valueLabel": "AYALA GNAEGI, MARIAEUGENIA"
+    }
+   ],
+   "releasedDate": "2026-10-26T21:39:12.110Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016420266-especialista-en-proteccion-ambiental",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016420266-especialista-en-proteccion-ambiental?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/46f4601d-0858-4c73-8441-faa27536b255?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>Buscamos un Especialista en Protección Ambiental para planificar, organizar y ejecutar análisis, estudios, actividades y proyectos relacionados con la protección ambiental, la gestión integrada de los recursos hídricos y el ordenamiento territorial ambiental. El puesto tiene énfasis en la gestión de indicadores socioambientales, el monitoreo y seguimiento de iniciativas, así como en la administración y mejora de plataformas, bases de datos y herramientas de apoyo a la toma de decisiones.<br>\n<br>\nFunciones principales:</p><ul><li>Planificar y ejecutar análisis, estudios y proyectos relacionados con la protección ambiental, la gestión de recursos hídricos y el ordenamiento territorial ambiental.</li><li>Recopilar, analizar, validar e interpretar información ambiental, social, territorial y de gestión para la elaboración de indicadores, reportes y tableros de desempeño.</li><li>Participar en el diseño, implementación y mejora de plataformas institucionales de monitoreo, seguimiento y control de proyectos e iniciativas.</li><li>Realizar visitas de campo, inspecciones y verificaciones técnicas para asegurar la calidad y confiabilidad de la información recopilada.</li><li>Participar en la formulación, seguimiento y evaluación de proyectos e iniciativas vinculadas con la conservación, el desarrollo sostenible y la gestión ambiental y territorial.</li></ul><p>Tipo de contratación: Temporal.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente.</li><li>Saber nadar.</li><li>Leer inglés.<br>\n&#xa0;</li></ul><p><em>Educación</em></p><ul><li>Título universitario en ciencias ambientales o disciplinas relacionadas al manejo de recursos naturales.</li><li>Título de Maestría en estudios directamente relacionados. (No excluyente).</li></ul><p>&#xa0;</p><p><em>Experiencia de dos (2) años o más en:</em></p><ul><li>Protección y conservación ambiental.</li><li>Gestión integrada de recursos hídricos.</li><li>Diseño, análisis y seguimiento de indicadores socioambientales.</li><li>Gestión, monitoreo y evaluación de proyectos ambientales y de desarrollo sostenible.</li><li>Administración y análisis de bases de datos, plataformas de monitoreo y elaboración de reportes técnicos.</li></ul><p>&#xa0;</p><p><em>Conocimientos en:</em></p><ul><li>Ciencias ambientales y disciplinas relacionadas con el manejo y gestión de recursos naturales.</li><li>Metodologías para diseñar, documentar, calcular, analizar y comunicar indicadores socioambientales e indicadores clave de desempeño.</li><li>Gestión integrada de recursos hídricos, desarrollo sostenible y protección ambiental.</li><li>Manejo de variables ambientales como vegetación, fauna, suelos y recursos hídricos.</li><li>Programas computacionales de productividad y colaboración, hojas de cálculo, visualización de datos, gestión de bases de datos y herramientas para la planificación y gestión de proyectos.</li><li>Formulación, planificación, seguimiento y evaluación de proyectos ambientales y de desarrollo sostenible.</li><li>Políticas, leyes, reglamentos, normas y procedimientos relacionados con la protección ambiental en Panamá.</li></ul><p><br>\n<br>\n<em>Competencias requeridas</em></p><ul><li>Capacidad analítica para interpretar información técnica y generar recomendaciones para la toma de decisiones.</li><li>Comunicación efectiva oral y escrita con diversos grupos de interés.</li><li>Organización y gestión de información técnica compleja.</li><li>Trabajo colaborativo en equipos interdisciplinarios y multidisciplinarios.</li><li>Adaptabilidad para responder eficazmente a situaciones cambiantes, conflictivas o de alta exigencia.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Disponibilidad para trabajar en áreas remotas o de difícil acceso, incluyendo caminatas, desplazamientos a caballo y en embarcaciones menores.</li><li>El trabajo combina actividades de oficina y campo, con posibles desplazamientos dentro de la Cuenca Hidrográfica del Canal de Panamá y otras áreas de interés.</li><li>Puede requerirse pernoctar en áreas de trabajo cuando sea necesario.</li><li>Disponibilidad para trabajar sábados, domingos, feriados y jornadas extendidas cuando sea requerido.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "max": 20.68,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
    }
   }
  ]
