@@ -1,6 +1,6 @@
 {
- "descargado": "2026-10-26T20:26:54-05:00",
- "totalFound": 12,
+ "descargado": "2026-10-27T20:16:05-05:00",
+ "totalFound": 10,
  "postings": [
   {
    "id": "3743990015246656",
@@ -237,383 +237,6 @@
    "experienceLevel": {
     "id": "not_applicable",
     "label": "Not Applicable"
-   },
-   "typeOfEmployment": {
-    "id": "permanent",
-    "label": "Full-time"
-   },
-   "language": {
-    "code": "es-MX",
-    "label": "Spanish (LATAM)",
-    "labelNative": "español (LATAM)"
-   }
-  },
-  {
-   "id": "3743990016093556",
-   "name": "REGISTROS ABIERTOS - OPERADOR DE EXPLOSIVOS ",
-   "uuid": "85f37b06-2cff-4a19-b46f-8711dc936a01",
-   "jobId": "89037609-267b-40aa-8240-ab8b90e2d6a1",
-   "jobAdId": "471f172f-79c7-43e8-9a37-6b14ff2c66b3",
-   "defaultJobAd": true,
-   "refNumber": "REF66B",
-   "company": {
-    "name": "Autoridad del Canal de Panamá",
-    "identifier": "AutoridadDelCanalDePanama1"
-   },
-   "location": {
-    "city": "Panama City",
-    "region": "Panamá Province",
-    "country": "pa",
-    "remote": false,
-    "hybrid": false,
-    "latitude": "8.9823792",
-    "longitude": "-79.51986959999999",
-    "fullLocation": "Panama City, Panamá Province, Panama"
-   },
-   "customField": [
-    {
-     "fieldId": "696140a6ac313c4a8eb1c7ab",
-     "fieldLabel": "Grado",
-     "valueId": "MG.00.07",
-     "valueLabel": "MG.00.07"
-    },
-    {
-     "fieldId": "COUNTRY",
-     "fieldLabel": "Country/Region",
-     "valueId": "pa",
-     "valueLabel": "Panama"
-    },
-    {
-     "fieldId": "6961433107d1a3c0c8411e50",
-     "fieldLabel": "Tipo de Contratación del puesto",
-     "valueId": "null",
-     "valueLabel": "null"
-    },
-    {
-     "fieldId": "69613ba2ac313c4a8eb1c7a9",
-     "fieldLabel": "Categoría de trabajo",
-     "valueId": "1ed9c8d0-2ffe-42c4-91d9-656ed43e5bef",
-     "valueLabel": "Registros Abiertos y Continuos"
-    },
-    {
-     "fieldId": "6961436a07d1a3c0c8411e51",
-     "fieldLabel": "Área Geográfica",
-     "valueId": "AMBAS ÁREAS",
-     "valueLabel": "AMBAS ÁREAS"
-    },
-    {
-     "fieldId": "696138dddf7ab15dc6353883",
-     "fieldLabel": "Siglas de oficina",
-     "valueId": "5ef87a50-5030-4182-8b1c-ddc629c19fef",
-     "valueLabel": "INC"
-    },
-    {
-     "fieldId": "69456ee8350d3426ea4feebb",
-     "fieldLabel": "Brands",
-     "valueId": "default",
-     "valueLabel": "Autoridad del Canal de Panamá"
-    },
-    {
-     "fieldId": "69613a6cdf7ab15dc6353884",
-     "fieldLabel": "Vicepresidencia",
-     "valueId": "IN",
-     "valueLabel": "IN"
-    }
-   ],
-   "releasedDate": "2026-10-13T18:39:31.795Z",
-   "creator": {
-    "name": "",
-    "avatarUrl": ""
-   },
-   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016093556-registros-abiertos-operador-de-explosivos-",
-   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016093556-registros-abiertos-operador-de-explosivos-?oga=true",
-   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/85f37b06-2cff-4a19-b46f-8711dc936a01?dcr_ci=AutoridadDelCanalDePanama1",
-   "jobAd": {
-    "sections": {
-     "companyDescription": {
-      "title": "Descripción de la empresa",
-      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
-     },
-     "jobDescription": {
-      "title": "Descripción del empleo",
-      "text": "<p>El Operador de Explosivos es responsable de asistir en las actividades relacionadas con la carga, manejo, transporte, almacenamiento y control de explosivos utilizados en operaciones de perforación y voladuras controladas para la fragmentación de formaciones geológicas, contribuyendo al cumplimiento seguro y eficiente de las operaciones.</p><p>Funciones principales:</p><ul><li>Asistir en la carga de explosivos y accesorios en barrenos de voladura, incluyendo la colocación de material para confinamiento del explosivo, detonadores y conexiones de líneas detonantes.</li><li>Participar en el almacenamiento, manipulación, inventario, control, distribución y transporte de explosivos y accesorios explosivos.</li><li>Operar y verificar diariamente vehículos destinados al transporte de explosivos, asegurando el cumplimiento de las normas de seguridad aplicables.</li><li>Apoyar en la recopilación de información de campo y en la revisión de parámetros de voladura para el registro y evaluación de resultados.</li><li>Colaborar en actividades de mantenimiento de equipo de perforación, herramientas y labores generales asociadas a las operaciones en tierra y a bordo de barcazas.</li></ul><p><strong>Nota:&#xa0;Este anuncio no corresponde a una vacante abierta en este momento. Cuando surja una oportunidad, será notificado para que pueda competir. El registro tendrá una vigencia de un (1) año.</strong></p>"
-     },
-     "qualifications": {
-      "title": "Requisitos",
-      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir tipo H (vehículo con sustancia peligrosa) o tipo I (vehículo con sustancia peligrosa y equipo pesado).</li><li>Saber nadar</li><li>Licencia de manipulador de explosivo tipo I, II o III emitida por la DIASP</li></ul><p><em>Educación (no excluyente):</em></p><ul><li>Bachiller o Perito Industrial o,</li><li>Capacitación Laboral (960 horas o más) en Explosivista o</li><li>Título universitario completo en Técnico en Minas o&#xa0;Ingeniería en Minas.</li></ul><p><em>Experiencia de un año (1) y seis (6) meses o más en:</em></p><ul><li>Apoyo en operaciones de perforación y voladuras controladas, incluyendo actividades de carga de explosivos y accesorios en barrenos, colocación de detonadores, reforzadores y conexión de sistemas de iniciación bajo procedimientos establecidos.</li><li>Manejo, almacenamiento, control de inventarios, distribución, transporte y custodia de explosivos y accesorios explosivos, aplicando las normas y procedimientos de seguridad correspondientes.</li><li>Manipulación y carga de explosivos comerciales para voladuras, incluyendo emulsión a granel, explosivos encartuchados, cordón detonante, boosters y otros accesorios de iniciación.</li><li>Operación de vehículos para el transporte de materiales peligrosos, incluyendo carga, descarga, movilización y aseguramiento de materiales, suministros y equipos en áreas operativas y de difícil acceso.</li><li>Aplicación de procedimientos de seguridad en actividades relacionadas con explosivos, tales como aseguramiento de áreas de voladura, colocación de barreras y señales de seguridad, control de acceso y verificación de condiciones seguras de trabajo.</li><li>Apoyo en el mantenimiento preventivo y correctivo de equipos y herramientas de perforación, incluyendo sistemas de combustión, fluidos de alta presión y equipos utilizados en operaciones de perforación y voladura.</li><li>Recopilación y registro de información de campo relacionada con patrones de voladura, verificación de profundidades de barrenos, cantidades de explosivos y evaluación de resultados operativos.</li></ul><p><em>Conocimiento en:</em></p><ul><li>Identificación y uso de iniciadores, detonadores (con o sin retardo) y otros dispositivos explosivos.</li><li>Leyes nacionales e internacionales sobre explosivos.</li><li>Reglas y procedimientos de seguridad para el manejo de explosivos.</li><li>Operación de equipos diseñados o modificados para operaciones con explosivos.</li><li>Capacidad para manipular cargas de hasta 40 libras.</li><li>Capacidad para ascender a torres de hasta 110 pies de altura.</li></ul><p><em>Competencias requeridas:</em></p><ul><li>Compromiso con la seguridad</li><li>Trabajo en equipo</li><li>Orientación al cumplimiento de procedimientos</li></ul>"
-     },
-     "additionalInformation": {
-      "title": "Información adicional",
-      "text": "<ul><li>El puesto requiere trabajo frecuente cerca del agua y/o a bordo de equipos flotantes.</li><li>El puesto implica trabajo frecuente en lodo, agua, barcazas flotantes y áreas próximas a explosivos.</li><li>Se requiere realizar esfuerzos físicos frecuentes, incluyendo levantar y mover objetos de hasta 40 libras.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder&#xa0;y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:<ul><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul></li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
-     }
-    }
-   },
-   "compensation": {
-    "min": 9.62,
-    "max": 9.62,
-    "currency": "PAB",
-    "period": "HOURLY"
-   },
-   "active": true,
-   "visibility": "PUBLIC",
-   "industry": {
-    "id": "maritime",
-    "label": "Maritime"
-   },
-   "function": {
-    "id": "engineering",
-    "label": "Engineering"
-   },
-   "experienceLevel": {
-    "id": "entry_level",
-    "label": "Entry Level"
-   },
-   "typeOfEmployment": {
-    "id": "permanent",
-    "label": "Full-time"
-   },
-   "language": {
-    "code": "es-MX",
-    "label": "Spanish (LATAM)",
-    "labelNative": "español (LATAM)"
-   }
-  },
-  {
-   "id": "3743990016096606",
-   "name": "REGISTROS ABIERTOS - EXPLOSIVISTA",
-   "uuid": "8d27c6d6-7597-4e27-b8a0-77a47d9ba844",
-   "jobId": "a25bdad7-0df8-4a4f-b52e-7ddb63861478",
-   "jobAdId": "db5ddcfa-535c-4ade-82ea-f4457f67028d",
-   "defaultJobAd": true,
-   "refNumber": "REF67R",
-   "company": {
-    "name": "Autoridad del Canal de Panamá",
-    "identifier": "AutoridadDelCanalDePanama1"
-   },
-   "location": {
-    "city": "Panama City",
-    "region": "Panamá Province",
-    "country": "pa",
-    "remote": false,
-    "hybrid": false,
-    "latitude": "8.9823792",
-    "longitude": "-79.51986959999999",
-    "fullLocation": "Panama City, Panamá Province, Panama"
-   },
-   "customField": [
-    {
-     "fieldId": "696140a6ac313c4a8eb1c7ab",
-     "fieldLabel": "Grado",
-     "valueId": "MG.00.10",
-     "valueLabel": "MG.00.10"
-    },
-    {
-     "fieldId": "COUNTRY",
-     "fieldLabel": "Country/Region",
-     "valueId": "pa",
-     "valueLabel": "Panama"
-    },
-    {
-     "fieldId": "6961433107d1a3c0c8411e50",
-     "fieldLabel": "Tipo de Contratación del puesto",
-     "valueId": "null",
-     "valueLabel": "null"
-    },
-    {
-     "fieldId": "69613ba2ac313c4a8eb1c7a9",
-     "fieldLabel": "Categoría de trabajo",
-     "valueId": "fa1b26a9-7371-44a1-bfba-22c9385204fa",
-     "valueLabel": "Ingeniería, mantenimiento y técnicos industriales"
-    },
-    {
-     "fieldId": "696138dddf7ab15dc6353883",
-     "fieldLabel": "Siglas de oficina",
-     "valueId": "5ef87a50-5030-4182-8b1c-ddc629c19fef",
-     "valueLabel": "INC"
-    },
-    {
-     "fieldId": "69456ee8350d3426ea4feebb",
-     "fieldLabel": "Brands",
-     "valueId": "default",
-     "valueLabel": "Autoridad del Canal de Panamá"
-    },
-    {
-     "fieldId": "69613a6cdf7ab15dc6353884",
-     "fieldLabel": "Vicepresidencia",
-     "valueId": "IN",
-     "valueLabel": "IN"
-    }
-   ],
-   "releasedDate": "2026-10-13T19:47:36.706Z",
-   "creator": {
-    "name": "",
-    "avatarUrl": ""
-   },
-   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016096606-registros-abiertos-explosivista",
-   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016096606-registros-abiertos-explosivista?oga=true",
-   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/8d27c6d6-7597-4e27-b8a0-77a47d9ba844?dcr_ci=AutoridadDelCanalDePanama1",
-   "jobAd": {
-    "sections": {
-     "companyDescription": {
-      "title": "Descripción de la empresa",
-      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
-     },
-     "jobDescription": {
-      "title": "Descripción del empleo",
-      "text": "<p>El Explosivista es responsable de planificar, coordinar y ejecutar actividades de perforación y voladura terrestre y acuática en los diferentes proyectos requeridos por el Canal de Panamá, garantizando el cumplimiento de los estándares de seguridad, control operativo, manejo de explosivos e inventarios, así como la correcta ejecución de los diseños de voladura.</p><p>Funciones principales:</p><ul><li>Diseñar y desarrollar patrones de perforación y voladura utilizando herramientas computacionales, de acuerdo con los requerimientos del proyecto.</li><li>Dirigir y supervisar las actividades de perforación, carga de explosivos, conexiones y ejecución de voladuras terrestres y acuáticas.</li><li>Administrar, transportar, controlar e inventariar explosivos, detonadores, accesorios y materiales relacionados con las operaciones.</li><li>Elaborar registros, informes, planos de avance y documentación requerida para el seguimiento y control de los proyectos.</li><li>Velar por el cumplimiento de las normas de seguridad, identificar condiciones inseguras y coordinar actividades operativas con personal de perforación y voladura.</li></ul><p><strong>Nota: Este anuncio no corresponde a una vacante abierta en este momento. Cuando surja una oportunidad, será notificado para que pueda competir. El registro tendrá una vigencia de un (1) año.</strong></p>"
-     },
-     "qualifications": {
-      "title": "Requisitos",
-      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de explosivista Tipo III emitida por la Dirección Institucional en Asuntos de Seguridad Pública (DIASP).</li><li>Saber nadar.</li><li>Turnos rotativos.</li><li>Licencia de conducir vigente.</li><li>Leer inglés.<br>\n&#xa0;</li></ul><p><em>Educación (no excluyente):</em></p><ul><li>Bachiller en cualquier área.</li><li>Estudios relacionados a Minería, Geología, carreras a fines.<br>\n&#xa0;</li></ul><p><em>Experiencia de cuatro (4) años o más en:</em></p><ul><li>Planificación, diseño y ejecución de voladuras terrestres y/o subacuáticas, determinando cantidades de explosivos, factores de carga y patrones de voladura de acuerdo con las características geológicas del terreno.</li><li>Manipulación, almacenamiento, transporte, custodia y control de inventarios de explosivos comerciales, detonadores, reforzadores y demás accesorios utilizados en operaciones de voladura.</li><li>Perforación, carga y preparación de barrenos, incluyendo la instalación de detonadores, sistemas de iniciación, conexión entre barrenos y verificación de secuencias de detonación.</li><li>Diseño e interpretación de patrones de voladura, estableciendo secuencias de encendido y medidas para controlar la fragmentación de roca y minimizar vibraciones en áreas cercanas a estructuras sensibles.</li><li>Ejecución de voladuras para excavación y fragmentación de roca en proyectos terrestres y/o subacuáticos, verificando los resultados obtenidos y la ausencia de cargas sin detonar.</li><li>Operaciones de perforación y voladura a bordo de barcazas, incluyendo actividades relacionadas con la manipulación de explosivos, trabajos de cubierta y apoyo en maniobras operativas.</li><li>Registro y control de información relacionada con actividades de perforación y voladura, incluyendo consumos de explosivos, detonadores, accesorios y resultados de las operaciones ejecutadas.</li><li>Interpretación y aplicación de especificaciones técnicas, manuales, diagramas y procedimientos relacionados con el uso seguro de explosivos y accesorios de voladura.</li><li>Aplicación de normas de seguridad industrial, prevención de incendios y manejo de materiales peligrosos en actividades de perforación y voladura.</li><li>Levantamiento y manejo de cargas pesadas, así como en la coordinación o apoyo de actividades de mantenimiento, reparación y montaje de equipos utilizados en operaciones de perforación y voladura.</li></ul><p><em>Conocimientos en:</em></p><ul><li>Manejo y utilización de explosivos comerciales, detonadores y accesorios.</li><li>Procedimientos internos para hojas de tiempo, reportes de accidentes y otros relacionados con sus funciones.</li><li>Lectura de normas de seguridad y manuales en inglés.</li><li>Manejo de programas informáticos tales como Microsoft Word, Microsoft Excel y AutoCAD.</li><li>Prácticas y técnicas de marinería (deseable).<br>\n&#xa0;</li></ul><p><em>Competencias requeridas:</em></p><ul><li>Liderazgo y coordinación de equipos de trabajo.</li><li>Orientación a la seguridad y prevención de riesgos.</li><li>Planificación y organización de operaciones de voladura.</li><li>Atención al detalle y control de inventarios.</li><li>Capacidad para capacitar y desarrollar personal.</li></ul>"
-     },
-     "additionalInformation": {
-      "title": "Información adicional",
-      "text": "<ul><li>Disponibilidad para trabajar en turnos rotativos.</li><li>El puesto desarrolla labores a bordo de equipo flotante y en operaciones terrestres de perforación y voladura.</li><li>Requiere exposición a condiciones ambientales exigentes y estricto cumplimiento de normas de seguridad.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><p>&#xa0;</p><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
-     }
-    }
-   },
-   "compensation": {
-    "max": 20.56,
-    "currency": "PAB",
-    "period": "HOURLY"
-   },
-   "active": true,
-   "visibility": "PUBLIC",
-   "industry": {
-    "id": "maritime",
-    "label": "Maritime"
-   },
-   "function": {
-    "id": "administrative",
-    "label": "Administrative"
-   },
-   "experienceLevel": {
-    "id": "not_applicable",
-    "label": "Not Applicable"
-   },
-   "typeOfEmployment": {
-    "id": "permanent",
-    "label": "Full-time"
-   },
-   "language": {
-    "code": "es-MX",
-    "label": "Spanish (LATAM)",
-    "labelNative": "español (LATAM)"
-   }
-  },
-  {
-   "id": "3743990016173846",
-   "name": "REGISTROS ABIERTOS - OPERADOR DE EQUIPO DE PERFORACIÓN",
-   "uuid": "730fa92a-cfeb-447d-967d-f0a338333958",
-   "jobId": "a0154c3d-cb08-4d54-8df8-b2a8dc8f08b5",
-   "jobAdId": "054ce2d4-bbff-4e8b-8e63-c0096cec7e7b",
-   "defaultJobAd": true,
-   "refNumber": "REF65V",
-   "company": {
-    "name": "Autoridad del Canal de Panamá",
-    "identifier": "AutoridadDelCanalDePanama1"
-   },
-   "location": {
-    "city": "Panama City",
-    "region": "Panamá Province",
-    "country": "pa",
-    "remote": false,
-    "hybrid": false,
-    "latitude": "8.9823792",
-    "longitude": "-79.51986959999999",
-    "fullLocation": "Panama City, Panamá Province, Panama"
-   },
-   "customField": [
-    {
-     "fieldId": "696140a6ac313c4a8eb1c7ab",
-     "fieldLabel": "Grado",
-     "valueId": "MG.00.10",
-     "valueLabel": "MG.00.10"
-    },
-    {
-     "fieldId": "COUNTRY",
-     "fieldLabel": "Country/Region",
-     "valueId": "pa",
-     "valueLabel": "Panama"
-    },
-    {
-     "fieldId": "6961433107d1a3c0c8411e50",
-     "fieldLabel": "Tipo de Contratación del puesto",
-     "valueId": "null",
-     "valueLabel": "null"
-    },
-    {
-     "fieldId": "69613ba2ac313c4a8eb1c7a9",
-     "fieldLabel": "Categoría de trabajo",
-     "valueId": "1ed9c8d0-2ffe-42c4-91d9-656ed43e5bef",
-     "valueLabel": "Registros Abiertos y Continuos"
-    },
-    {
-     "fieldId": "696138dddf7ab15dc6353883",
-     "fieldLabel": "Siglas de oficina",
-     "valueId": "5ef87a50-5030-4182-8b1c-ddc629c19fef",
-     "valueLabel": "INC"
-    },
-    {
-     "fieldId": "69456ee8350d3426ea4feebb",
-     "fieldLabel": "Brands",
-     "valueId": "default",
-     "valueLabel": "Autoridad del Canal de Panamá"
-    },
-    {
-     "fieldId": "69613a6cdf7ab15dc6353884",
-     "fieldLabel": "Vicepresidencia",
-     "valueId": "IN",
-     "valueLabel": "IN"
-    }
-   ],
-   "releasedDate": "2026-10-16T12:02:17.951Z",
-   "creator": {
-    "name": "",
-    "avatarUrl": ""
-   },
-   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016173846-registros-abiertos-operador-de-equipo-de-perforacion",
-   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016173846-registros-abiertos-operador-de-equipo-de-perforacion?oga=true",
-   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/730fa92a-cfeb-447d-967d-f0a338333958?dcr_ci=AutoridadDelCanalDePanama1",
-   "jobAd": {
-    "sections": {
-     "companyDescription": {
-      "title": "Descripción de la empresa",
-      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
-     },
-     "jobDescription": {
-      "title": "Descripción del empleo",
-      "text": "<p>El Operador de Equipo de Perforación&#xa0;es responsable de operar equipos de perforación para la realización de perforaciones de núcleo, huecos de voladura y pozos, así como de garantizar la operación segura y eficiente de los equipos asignados en distintas condiciones de terreno y sobre equipos flotantes.</p><p>Funciones principales:</p><ul><li>Operar y posicionar equipos de perforación en diferentes áreas de trabajo, incluyendo laderas, riberas, bancos de arena, terrenos planos y barcazas.</li><li>Seleccionar e instalar brocas de perforación, extractores de núcleo, forros y equipos asociados para obtener muestras y realizar perforaciones.</li><li>Operar maquinaria de perforación controlando la velocidad del taladro, presión de aire de compresores, flujo de agua y profundidad requerida.</li><li>Realizar el mantenimiento operacional e inspección de los equipos asignados, asegurando su correcto funcionamiento.</li><li>Operar de manera segura y eficiente las torres de perforación cuando trabaje a bordo de la Barcaza de Perforación.</li><li>Operar de manera segura y eficiente las perforadoras terrestres.</li></ul><p><strong>Nota:&#xa0;Este anuncio no corresponde a una vacante abierta en este momento. Cuando surja una oportunidad, será notificado para que pueda competir. El registro tendrá una vigencia de un (1) año.</strong></p>"
-     },
-     "qualifications": {
-      "title": "Requisitos",
-      "text": "<ul><li>Nacionalidad panameña.</li><li>Saber nadar.</li><li>Licencia de conducir tipo H y/o I.</li><li>Trabajar turnos rotativos.</li></ul><p><em>Educación (no excluyente):</em></p><ul><li>Bachiller o Perito Industrial en Automecánica o,</li><li>Capacitación Laboral (960 horas o más) en Automecánica u Operación de Equipo de Perforación.</li><li>Técnico en&#xa0;Operación de Equipo de Perforación.</li></ul><p><em>Experiencia de dos (2) años o más en:</em></p><ul><li>Operación o asistencia en la operación de equipos de perforación para la ejecución de perforaciones en distintas formaciones geológicas, realizando actividades relacionadas con perforaciones para voladuras, barrenos y pozos en diferentes tipos de terreno y condiciones de trabajo utilizando brocas retráctiles, tricono y martillo.</li><li>Manejo de maquinaria de perforación, incluyendo el control de velocidad de perforación, presión sobre la roca, flujo de agua y profundidad, asegurando la obtención de muestras y resultados de acuerdo con los requerimientos operativos.</li><li>Operación de torres de perforación, taladros de núcleo, equipos rotatorios, bombas, motores de potencia y demás equipos auxiliares utilizados en actividades de perforación.</li><li>Recuperación de núcleos, toma de muestras de suelo y ejecución de perforaciones terrestres y subacuáticas.</li><li>Inspección, mantenimiento operacional y verificación del estado de funcionamiento de equipos de perforación, incluyendo la revisión de sistemas mecánicos, lubricación, niveles de fluidos y lectura de manómetros e instrumentos de medición antes y durante su operación.</li><li>Trabajo en operaciones de perforación en suelo y sobre equipos flotantes, tales como barcazas, realizando actividades de cubierta, labores de marinería y trabajos en áreas cercanas al agua, cumpliendo con los requisitos de seguridad industrial y marítima.</li><li>Manejo de cargas pesadas y aplicación de técnicas, procedimientos y herramientas de seguridad para la protección del personal, las embarcaciones y los equipos utilizados en las operaciones de perforación.</li></ul><p><em>Conocimiento en:</em></p><ul><li>Operación de maquinaria y equipos de perforación.</li><li>Manejo y control de velocidad de perforación, presión y flujo de agua.</li><li>Instalación de forros y bombas de pozo.</li><li>Inspección y mantenimiento operacional de equipos de perforación.</li><li>Operación segura de equipos en ambientes terrestres y flotantes.</li></ul><p><em>Competencias requeridas:</em></p><ul><li>Orientación a la seguridad.</li><li>Responsabilidad en la operación y mantenimiento de equipos.</li><li>Atención al detalle.</li><li>Capacidad para trabajar de forma autónoma con supervisión general.</li><li>Adaptabilidad para trabajar en diferentes condiciones ambientales y operativas.</li></ul>"
-     },
-     "additionalInformation": {
-      "title": "Información adicional",
-      "text": "<ul><li>Disponibilidad para trabajar turnos rotativos.</li><li>El puesto requiere trabajo frecuente cerca del agua y/o a bordo de equipos flotantes.</li><li>El puesto implica trabajo frecuente en lodo, agua, barcazas flotantes y áreas próximas a explosivos.</li><li>Se requiere realizar esfuerzos físicos frecuentes, incluyendo levantar y mover objetos de hasta 40 libras.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como: títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder&#xa0;y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:<ul><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul></li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
-     }
-    }
-   },
-   "compensation": {
-    "min": 20.56,
-    "max": 20.56,
-    "currency": "PAB",
-    "period": "HOURLY"
-   },
-   "active": true,
-   "visibility": "PUBLIC",
-   "industry": {
-    "id": "maritime",
-    "label": "Maritime"
-   },
-   "function": {
-    "id": "engineering",
-    "label": "Engineering"
-   },
-   "experienceLevel": {
-    "id": "entry_level",
-    "label": "Entry Level"
    },
    "typeOfEmployment": {
     "id": "permanent",
@@ -1632,6 +1255,159 @@
    },
    "compensation": {
     "max": 20.68,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990016449525",
+   "name": "ESPECIALISTA INTERDISCIPLINARIO (ADMINISTRACIÓN DE RECURSOS NATURALES)",
+   "uuid": "27c0c6f6-43cb-4aef-889d-f4851dd04dcb",
+   "jobId": "1909308e-029c-4b70-acda-c87b9947a430",
+   "jobAdId": "894d9985-e89c-46dd-b385-3de841abace2",
+   "defaultJobAd": true,
+   "refNumber": "ESPEC INTER (ADMIN REC NAT) NM.03.09 HIS-RP 178650",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "320372.GRTE DE SOST SOCIOAMBIENTAL.03400.128.1",
+     "valueLabel": "320372.GRTE DE SOST SOCIOAMBIENTAL.03400.128.1"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.03.09",
+     "valueLabel": "NM.03.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "5ea6283b-fa11-4a61-91b3-f5ae56fff344",
+     "valueLabel": "Ciencias ambientales e investigación"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "6528c49f-5465-4e45-8a6d-c341843d21e2",
+     "valueLabel": "HIS-RP"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2342596",
+     "valueLabel": "2342596"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "178650"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "HI",
+     "valueLabel": "HI"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "a7dabbd9-233c-4b93-8c38-35776c3885ea",
+     "valueLabel": "MARTINEZ DOMINGUEZ, RAUL ENRIQUE"
+    }
+   ],
+   "releasedDate": "2026-10-27T22:06:58.705Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016449525-especialista-interdisciplinario-administracion-de-recursos-naturales-",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016449525-especialista-interdisciplinario-administracion-de-recursos-naturales-?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/27c0c6f6-43cb-4aef-889d-f4851dd04dcb?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El Especialista Interdisciplinario (Administración de Recursos Naturales) es responsable de desarrollar, planificar e implementar programas y prácticas de manejo de recursos naturales, conservación de suelos, reforestación y producción agropecuaria sostenible en la Cuenca del Canal de Panamá, mediante la evaluación ambiental, la planificación técnica y la coordinación de proyectos forestales y agroforestales.</p><p>&#xa0;</p><p><em>Funciones principales:</em></p><p>• Desarrollar y aplicar métodos y prácticas silviculturales para proyectos de reforestación y producción agropecuaria.</p><p>• Administrar programas de conservación y manejo de suelos, incluyendo control de erosión y evaluaciones ambientales.</p><p>• Planificar y realizar giras e inspecciones de campo para análisis, monitoreo y seguimiento de proyectos forestales y agropecuarios.</p><p>• Coordinar y supervisar actividades técnicas relacionadas con plantaciones forestales, siembras y sistemas silvopastoriles.</p><p>• Elaborar informes técnicos, recomendaciones presupuestarias, términos de referencia y administrar contratos vinculados a programas de reforestación y desarrollo agropecuario.</p><p>&#xa0;</p><p><strong>Tipo de contratación:</strong> Temporal.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<p>• Nacionalidad panameña.</p><p>• Licencia de conducir vigente.</p><p>• Saber nadar.</p><p>• Leer inglés.</p><p>&#xa0;</p><p><em>Educación:</em></p><p>• Título universitario completo en Licenciatura en Ciencias Forestales o Agronomía.</p><p>• Certificado de idoneidad&#xa0;expedido por el Consejo Técnico Nacional de Agricultura en Ciencias Forestales o Agronomía.</p><p>&#xa0;</p><p><em>Experiencia de dos (2) año o más en:&#xa0;</em></p><p>• Desarrollo e implementación de programas de manejo de tierras en silvicultura y manejo forestal.</p><p>• Administración y conservación de suelos y control de erosión.</p><p>• Planificación y ejecución de proyectos de reforestación y producción agropecuaria.</p><p>• Evaluaciones ambientales y monitoreo de recursos naturales.</p><p>• Preparación de informes técnicos y coordinación de actividades forestales y agroforestales.</p><p>&#xa0;</p><p><em>Conocimientos:</em></p><p>• Bosques, métodos de reforestación, agronomía y sistemas de cosecha.</p><p>• Aspectos de suelos, hidrología, entomología y ciencias del suelo aplicadas al manejo forestal y agrícola.</p><p>• Principios biológicos y ambientales relacionados con la gestión de recursos naturales.</p><p>• Métodos científicos, técnicas y procedimientos de las ciencias agronómicas.</p><p>• Monitoreo y manejo de recursos naturales y protección ambiental.<br>\n&#xa0;</p><p><em>Competencias requeridas:</em></p><p>• Planificación y organización del trabajo.</p><p>• Análisis y resolución de problemas.</p><p>• Comunicación técnica oral y escrita.</p><p>• Coordinación y trabajo colaborativo con diversas partes interesadas.</p><p>• Orientación a resultados y cumplimiento de normas y procedimientos.</p>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<p>• Disponibilidad para realizar recorridos e inspecciones de campo que requieren caminar, escalar, permanecer de pie y agacharse.</p><p>• Disponibilidad para desplazarse en diversos medios de transporte.</p><p>• Exposición a riesgos moderados y condiciones atmosféricas adversas; uso de equipo de protección personal cuando sea requerido.</p><p>• Disponibilidad para pernoctar en áreas de trabajo cuando sea necesario.</p><p>• Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</p><p>&#xa0;</p><p>• Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</p><p>• Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</p><p>&#xa0;</p><p><em>Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</em></p><p>• Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</p><p>• Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</p><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 20.58,
+    "max": 20.58,
     "currency": "PAB",
     "period": "HOURLY"
    },
