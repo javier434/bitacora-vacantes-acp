@@ -1,6 +1,6 @@
 {
- "descargado": "2026-10-27T20:16:05-05:00",
- "totalFound": 10,
+ "descargado": "2026-10-28T20:45:55-05:00",
+ "totalFound": 11,
  "postings": [
   {
    "id": "3743990015246656",
@@ -1433,6 +1433,130 @@
     "code": "es-MX",
     "label": "Spanish (LATAM)",
     "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990016457761",
+   "name": "REGISTROS ABIERTOS - TRABAJADOR EN PINTURA",
+   "uuid": "ac5fb34a-1e0c-4007-9be5-fc7bd2db9514",
+   "jobId": "281503a3-5b1d-411b-81cf-53f11a16aa05",
+   "jobAdId": "06703725-ddc2-4182-8d06-494f933258f9",
+   "defaultJobAd": true,
+   "refNumber": "REF62Z",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "MG.00.07",
+     "valueLabel": "MG.00.07"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "null",
+     "valueLabel": "null"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "fa1b26a9-7371-44a1-bfba-22c9385204fa",
+     "valueLabel": "Ingeniería, mantenimiento y técnicos industriales"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "4abaad25-4f09-4ed1-b712-f27c13968cca",
+     "valueLabel": "CHC"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "CH",
+     "valueLabel": "CH"
+    }
+   ],
+   "releasedDate": "2026-10-28T13:04:48.279Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016457761-registros-abiertos-trabajador-en-pintura",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016457761-registros-abiertos-trabajador-en-pintura?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/ac5fb34a-1e0c-4007-9be5-fc7bd2db9514?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El Trabajador en Pintura es responsable de ejecutar trabajos de pintura y recubrimiento en estructuras, equipos e instalaciones interiores y exteriores, asegurando la adecuada preparación de superficies, aplicación de materiales de protección y cumplimiento de los estándares técnicos y de seguridad establecidos.</p><p>Funciones principales:</p><p>• Ejecutar trabajos de pintura y recubrimiento en equipos, estructuras y edificaciones interiores y exteriores.<br>\n• Preparar superficies mediante limpieza, remoción de contaminantes y uso de equipos manuales, eléctricos, neumáticos o mecánicos.<br>\n• Operar, ensamblar y dar mantenimiento preventivo a equipos y herramientas de pintura y limpieza.<br>\n• Armar y utilizar andamios, plataformas suspendidas y sistemas de protección contra caídas para trabajos en alturas.<br>\n• Cumplir estrictamente con los procedimientos de seguridad, incluyendo trabajos en espacios confinados y áreas cercanas al agua.</p><p><strong>Nota: Este anuncio no corresponde a una vacante abierta en este momento. Cuando surja una oportunidad, será notificado para que pueda competir. </strong><strong>El registro tendrá una vigencia de un (1) año.</strong></p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Leer inglés para aplicar instrucciones relacionadas con el uso y aplicación de materiales.</li><li>Saber nadar.</li><li>&#xa0;Requiere trabajar turnos rotativos.</li><li>Licencia de conducir vigente.</li></ul><p><em>Educación (no excluyente)</em></p><p>• Bachiller en Construcción o Pintura.<br>\n• Capacitación laboral en Pintura para Construcciones, Estructuras o Muebles (960 horas o más).</p><p><em>Experiencia de un (1) año y seis (6) meses o más en:&#xa0;</em></p><p>• Ejecución de trabajos de pintura y recubrimiento en estructuras, equipos e instalaciones interiores y exteriores, cumpliendo con especificaciones técnicas y estándares de calidad establecidos.<br>\n• Preparación de superficies mediante la remoción de pintura, óxido, grasa y otros contaminantes, utilizando arenado húmedo o seco, chorro de agua a alta y ultra alta presión, y herramientas mecánicas, neumáticas o eléctricas.<br>\n• Operación, ajuste y mantenimiento preventivo de equipos de aspersión, compresores de aire y herramientas neumáticas o eléctricas utilizadas en la preparación de superficies y aplicación de recubrimientos.<br>\n• Realización de trabajos en alturas y en espacios confinados mediante el uso de andamios, plataformas suspendidas y sistemas de protección contra caídas, cumpliendo con los procedimientos de seguridad establecidos.<br>\n• Aplicación de pinturas y recubrimientos especializados para la protección y prevención de la corrosión, asegurando cobertura uniforme, espesores adecuados y superficies libres de goteos o defectos.</p><p><em>Conocimientos en:</em></p><p>• Conocimiento de la técnica y ejecución de operaciones de preparación de superficies mediante chorro de arena, así como de limpieza utilizando chorro abrasivo y agua a alta y ultra alta presión, para la remoción de pintura, óxido y otros contaminantes</p><p>• Conocimiento de los métodos estándar de preparación de superficies y de las técnicas de recubrimiento requeridas para lograr superficies completamente revestidas y protegidas</p><p>• Conocimiento en el uso de equipos de aspersión, así como de instrumentos para la medición de espesores y el control de calidad del recubrimiento aplicado</p><p>• Capacidad para interpretar hojas técnicas y hojas de datos de seguridad (MSDS) de pinturas, solventes y materiales de recubrimiento, incluyendo sus propiedades físicas y químicas.</p><p>• Conocimiento de las normas de seguridad y salud ocupacional, aplicación del análisis de trabajo seguro (ATS) y prácticas para la prevención y control de la corrosión en el área de trabajo.</p><p><em>Competencias requeridas</em></p><ul><li>Orientación a la seguridad.</li><li>Atención al detalle.</li><li>Trabajo en equipo.</li><li>Responsabilidad.</li><li>Organización y orden en el trabajo.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li><p>Disponibilidad para trabajar en turnos rotativos.</p></li><li><p>&#xa0;Podrá ser asignado a trabajar en el Pacífico o el Atlántico.</p></li><li><p>El trabajo se realiza en interiores y exteriores, incluyendo espacios confinados, equipos flotantes, andamios y plataformas suspendidas.</p></li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li><em>Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</em></li><li><em>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</em></li><li><em>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</em></li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "other",
+    "label": "Other"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "language": {
+    "code": "es",
+    "label": "Spanish",
+    "labelNative": "español"
    }
   }
  ]
