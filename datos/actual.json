@@ -1,6 +1,6 @@
 {
- "descargado": "2026-11-03T21:15:25-05:00",
- "totalFound": 12,
+ "descargado": "2026-11-04T21:21:06-05:00",
+ "totalFound": 14,
  "postings": [
   {
    "id": "3743990015246656",
@@ -1258,159 +1258,6 @@
    }
   },
   {
-   "id": "3743990016514715",
-   "name": "ESPECIALISTA INTERDISCIPLINARIO (ADMINISTRACIÓN DE RECURSOS NATURALES)",
-   "uuid": "d14562bd-7c1e-4d3b-9037-aa40dd857a14",
-   "jobId": "1909308e-029c-4b70-acda-c87b9947a430",
-   "jobAdId": "894d9985-e89c-46dd-b385-3de841abace2",
-   "defaultJobAd": true,
-   "refNumber": "ESPEC INTER (ADMIN REC NAT) NM.03.09 HIS-RP 178650",
-   "company": {
-    "name": "Autoridad del Canal de Panamá",
-    "identifier": "AutoridadDelCanalDePanama1"
-   },
-   "location": {
-    "city": "Panama City",
-    "region": "Panamá Province",
-    "country": "pa",
-    "remote": false,
-    "hybrid": false,
-    "latitude": "8.9823792",
-    "longitude": "-79.51986959999999",
-    "fullLocation": "Panama City, Panamá Province, Panama"
-   },
-   "customField": [
-    {
-     "fieldId": "69613cf3df7ab15dc6353885",
-     "fieldLabel": "Cargo del supervisor",
-     "valueId": "320372.GRTE DE SOST SOCIOAMBIENTAL.03400.128.1",
-     "valueLabel": "320372.GRTE DE SOST SOCIOAMBIENTAL.03400.128.1"
-    },
-    {
-     "fieldId": "696140a6ac313c4a8eb1c7ab",
-     "fieldLabel": "Grado",
-     "valueId": "NM.03.09",
-     "valueLabel": "NM.03.09"
-    },
-    {
-     "fieldId": "COUNTRY",
-     "fieldLabel": "Country/Region",
-     "valueId": "pa",
-     "valueLabel": "Panama"
-    },
-    {
-     "fieldId": "6961433107d1a3c0c8411e50",
-     "fieldLabel": "Tipo de Contratación del puesto",
-     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
-     "valueLabel": "Temporal"
-    },
-    {
-     "fieldId": "69613ba2ac313c4a8eb1c7a9",
-     "fieldLabel": "Categoría de trabajo",
-     "valueId": "5ea6283b-fa11-4a61-91b3-f5ae56fff344",
-     "valueLabel": "Ciencias ambientales e investigación"
-    },
-    {
-     "fieldId": "6961436a07d1a3c0c8411e51",
-     "fieldLabel": "Área Geográfica",
-     "valueId": "AMBAS ÁREAS",
-     "valueLabel": "AMBAS ÁREAS"
-    },
-    {
-     "fieldId": "696138dddf7ab15dc6353883",
-     "fieldLabel": "Siglas de oficina",
-     "valueId": "6528c49f-5465-4e45-8a6d-c341843d21e2",
-     "valueLabel": "HIS-RP"
-    },
-    {
-     "fieldId": "69456ee8350d3426ea4feebb",
-     "fieldLabel": "Brands",
-     "valueId": "default",
-     "valueLabel": "Autoridad del Canal de Panamá"
-    },
-    {
-     "fieldId": "69613f65ac313c4a8eb1c7aa",
-     "fieldLabel": "IP del Supervisor",
-     "valueId": "2342596",
-     "valueLabel": "2342596"
-    },
-    {
-     "fieldId": "696142ec07d1a3c0c8411e4f",
-     "fieldLabel": "Número de Ticket de IVANTI",
-     "valueLabel": "178650"
-    },
-    {
-     "fieldId": "69613a6cdf7ab15dc6353884",
-     "fieldLabel": "Vicepresidencia",
-     "valueId": "HI",
-     "valueLabel": "HI"
-    },
-    {
-     "fieldId": "69613daf07d1a3c0c8411e4d",
-     "fieldLabel": "Nombre del supervisor",
-     "valueId": "a7dabbd9-233c-4b93-8c38-35776c3885ea",
-     "valueLabel": "MARTINEZ DOMINGUEZ, RAUL ENRIQUE"
-    }
-   ],
-   "releasedDate": "2026-10-30T01:44:34.297Z",
-   "creator": {
-    "name": "",
-    "avatarUrl": ""
-   },
-   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016514715-especialista-interdisciplinario-administracion-de-recursos-naturales-",
-   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016514715-especialista-interdisciplinario-administracion-de-recursos-naturales-?oga=true",
-   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/d14562bd-7c1e-4d3b-9037-aa40dd857a14?dcr_ci=AutoridadDelCanalDePanama1",
-   "jobAd": {
-    "sections": {
-     "companyDescription": {
-      "title": "Descripción de la empresa",
-      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
-     },
-     "jobDescription": {
-      "title": "Descripción del empleo",
-      "text": "<p>El Especialista Interdisciplinario (Administración de Recursos Naturales) es responsable de desarrollar, planificar e implementar programas y prácticas de manejo de recursos naturales, conservación de suelos, reforestación y producción agropecuaria sostenible en la Cuenca del Canal de Panamá, mediante la evaluación ambiental, la planificación técnica y la coordinación de proyectos forestales y agroforestales.</p><p>&#xa0;</p><p><em>Funciones principales:</em></p><p>• Desarrollar y aplicar métodos y prácticas silviculturales para proyectos de reforestación y producción agropecuaria.</p><p>• Administrar programas de conservación y manejo de suelos, incluyendo control de erosión y evaluaciones ambientales.</p><p>• Planificar y realizar giras e inspecciones de campo para análisis, monitoreo y seguimiento de proyectos forestales y agropecuarios.</p><p>• Coordinar y supervisar actividades técnicas relacionadas con plantaciones forestales, siembras y sistemas silvopastoriles.</p><p>• Elaborar informes técnicos, recomendaciones presupuestarias, términos de referencia y administrar contratos vinculados a programas de reforestación y desarrollo agropecuario.</p><p>&#xa0;</p><p><strong>Tipo de contratación:</strong> Temporal.</p>"
-     },
-     "qualifications": {
-      "title": "Requisitos",
-      "text": "<p>• Nacionalidad panameña.</p><p>• Licencia de conducir vigente.</p><p>• Saber nadar.</p><p>• Leer inglés.</p><p>&#xa0;</p><p><em>Educación:</em></p><p>• Título universitario completo en Licenciatura en Ciencias Forestales o Agronomía.</p><p>• Certificado de idoneidad&#xa0;expedido por el Consejo Técnico Nacional de Agricultura en Ciencias Forestales o Agronomía.</p><p>&#xa0;</p><p><em>Experiencia de dos (2) años o más en:&#xa0;</em></p><p>• Desarrollo e implementación de programas de manejo de tierras en silvicultura y manejo forestal.</p><p>• Administración y conservación de suelos y control de erosión.</p><p>• Planificación y ejecución de proyectos de reforestación y producción agropecuaria.</p><p>• Evaluaciones ambientales y monitoreo de recursos naturales.</p><p>• Preparación de informes técnicos y coordinación de actividades forestales y agroforestales.</p><p>&#xa0;</p><p><em>Conocimientos:</em></p><p>• Bosques, métodos de reforestación, agronomía y sistemas de cosecha.</p><p>• Aspectos de suelos, hidrología, entomología y ciencias del suelo aplicadas al manejo forestal y agrícola.</p><p>• Principios biológicos y ambientales relacionados con la gestión de recursos naturales.</p><p>• Métodos científicos, técnicas y procedimientos de las ciencias agronómicas.</p><p>• Monitoreo y manejo de recursos naturales y protección ambiental.<br>\n&#xa0;</p><p><em>Competencias requeridas:</em></p><p>• Planificación y organización del trabajo.</p><p>• Análisis y resolución de problemas.</p><p>• Comunicación técnica oral y escrita.</p><p>• Coordinación y trabajo colaborativo con diversas partes interesadas.</p><p>• Orientación a resultados y cumplimiento de normas y procedimientos.</p>"
-     },
-     "additionalInformation": {
-      "title": "Información adicional",
-      "text": "<p>• Disponibilidad para realizar recorridos e inspecciones de campo que requieren caminar, escalar, permanecer de pie y agacharse.</p><p>• Disponibilidad para desplazarse en diversos medios de transporte.</p><p>• Exposición a riesgos moderados y condiciones atmosféricas adversas; uso de equipo de protección personal cuando sea requerido.</p><p>• Disponibilidad para pernoctar en áreas de trabajo cuando sea necesario.</p><p>• Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</p><p>&#xa0;</p><p>• Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</p><p>• Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</p><p>&#xa0;</p><p><em>Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</em></p><p>• Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</p><p>• Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</p><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
-     }
-    }
-   },
-   "compensation": {
-    "min": 20.58,
-    "max": 20.58,
-    "currency": "PAB",
-    "period": "HOURLY"
-   },
-   "active": true,
-   "visibility": "PUBLIC",
-   "industry": {
-    "id": "maritime",
-    "label": "Maritime"
-   },
-   "function": {
-    "id": "advertising",
-    "label": "Advertising"
-   },
-   "experienceLevel": {
-    "id": "director",
-    "label": "Director"
-   },
-   "typeOfEmployment": {
-    "id": "contract",
-    "label": "Contract"
-   },
-   "language": {
-    "code": "es-MX",
-    "label": "Spanish (LATAM)",
-    "labelNative": "español (LATAM)"
-   }
-  },
-  {
    "id": "3743990016533341",
    "name": "INSPECTOR DE LABORES DE ASEO",
    "uuid": "b97dcb8e-b168-411b-81fd-b523d961ff63",
@@ -1714,6 +1561,398 @@
     "code": "es",
     "label": "Spanish",
     "labelNative": "español"
+   }
+  },
+  {
+   "id": "3743990016617926",
+   "name": "INGENIERO CIVIL",
+   "uuid": "672a2b24-b9eb-4be3-8548-9ab755ded1a4",
+   "jobId": "ad26cbed-26f8-41a8-a3ec-25394cf182b7",
+   "jobAdId": "01107af8-cd0b-4657-bbe7-1c13be2df61a",
+   "defaultJobAd": true,
+   "refNumber": "INGENIERO CIVIL NM.00.12 PH-ID 180054",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama",
+    "country": "pa",
+    "address": "EDIF. 740, COROZALBalboa",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Panama, , Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "080079.SUPV, INGENIERO CIVIL.08100.004.1",
+     "valueLabel": "080079.SUPV, INGENIERO CIVIL.08100.004.1"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.12",
+     "valueLabel": "NM.00.12"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "fa1b26a9-7371-44a1-bfba-22c9385204fa",
+     "valueLabel": "Ingeniería, mantenimiento y técnicos industriales"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "PH-ID",
+     "valueLabel": "PH-ID"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2753707",
+     "valueLabel": "2753707"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "180054"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "PH",
+     "valueLabel": "PH"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "4d4e69bb-dd5f-4744-94f7-9a35e21a5f14",
+     "valueLabel": "GARCIA BURGOS, RAUL ORLANDO"
+    }
+   ],
+   "releasedDate": "2026-11-04T14:24:58.081Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016617926-ingeniero-civil",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016617926-ingeniero-civil?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/672a2b24-b9eb-4be3-8548-9ab755ded1a4?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>Buscamos un Ingeniero Civil para integrarse al Equipo de Diseño de Proyectos de la Oficina de Proyectos Hídricos. La posición participa en el análisis, diseño, coordinación y seguimiento de infraestructura civil y sanitaria asociada a los proyectos hídricos del Canal de Panamá, con énfasis en el Proyecto del Lago de Río Indio, brindando apoyo técnico especializado para la planificación, diseño, contratación y ejecución de obras.<br>\n<br>\nFunciones principales:</p><ul><li>Planear, diseñar y dar seguimiento a proyectos de ingeniería civil relacionados con carreteras, caminos, sistemas de agua potable, alcantarillado, drenajes y obras sanitarias.</li><li>Realizar estudios, análisis, modelaciones y diseños de infraestructura civil, hidráulica y sanitaria para apoyar la planificación y ejecución de proyectos.</li><li>Preparar especificaciones técnicas, estimados de costos, informes, recomendaciones y documentación para procesos de licitación y contratación.</li><li>Coordinar proyectos, contratistas, consultores y equipos multidisciplinarios para asegurar el cumplimiento de los objetivos establecidos.</li><li>Realizar inspecciones de campo, revisión de diseños, seguimiento de contratos y apoyo técnico durante las fases de diseño y construcción.</li></ul><p>Tipo de contratación: Temporal.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente.</li><li>Saber nadar.</li><li>Inglés nivel avanzado (hablar, leer y escribir).<br>\n&#xa0;</li></ul><p><br>\n<em>Educación</em></p><ul><li>Título universitario en licenciatura en Ingeniería Civil.</li><li>Idoneidad profesional en Ingeniería Civil expedida por la Junta Técnica de Ingeniería y Arquitectura.</li></ul><p><br>\n<em>Experiencia de al menos cinco (5) años en:</em></p><ul><li>Diseño y desarrollo de proyectos de ingeniería civil.</li><li>Coordinación de proyectos de agua potable y aguas residuales.</li><li>Elaboración de especificaciones técnicas y estimados de costos.</li><li>Seguimiento técnico y administración de contratos relacionados con obras de infraestructura.</li><li>Análisis, diseño e inspección de infraestructura civil, sanitaria e hidráulica.</li></ul><p><br>\n<br>\n<em>Conocimientos en:</em></p><ul><li>Principios, conceptos y teorías de Ingeniería Civil.</li><li>Diseño y análisis de infraestructura civil, sanitaria e hidráulica.</li><li>Sistemas de agua potable, aguas residuales, drenajes pluviales y carreteras.</li><li>AutoCAD Civil 3D.</li><li>AutoCAD.</li><li>ArcGIS.</li><li>HEC-RAS.</li><li>Interpretación de planos, especificaciones y materiales de construcción.</li><li>Administración de contratos, pliegos de cargos y procesos de contratación.</li><li>Estándares y mejores prácticas de la industria de la construcción.</li></ul><p><br>\n<br>\n<br>\n<em>Competencias requeridas</em></p><ul><li>Comunicación efectiva.</li><li>Trabajo en equipo y relaciones interpersonales.</li><li>Iniciativa.</li><li>Pensamiento analítico y solución de problemas.</li><li>Toma de decisiones y criterio técnico.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Requiere giras frecuentes de campo, incluyendo áreas rurales y zonas remotas.</li><li>Puede requerir pernoctar en campo utilizando hospedaje comunitario o equipo para acampar.</li><li>Aproximadamente el 50% del trabajo se realiza en campo y el 50% en oficina.</li><li>Exposición a condiciones climáticas variables, terrenos accidentados, cuerpos de agua, polvo, ruido, insectos y otros factores ambientales.</li><li>Uso obligatorio de equipo de protección personal durante actividades de campo.</li><li>La posición está sujeta a cambios en la estación de reporte o lugar de trabajo, incluyendo asignaciones en oficinas o campamentos ubicados en la cuenca del río Indio o áreas de influencia del proyecto.</li><li>Pueden realizarse ajustes al horario laboral y a la semana administrativa de trabajo según las necesidades del proyecto.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "max": 29.49,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990016633794",
+   "name": "REGISTROS ABIERTOS - PLOMERO",
+   "uuid": "55b93bbd-5a46-4c55-9261-7f907ba8950e",
+   "jobId": "df814fd7-2816-4609-8e15-ffb404758db8",
+   "jobAdId": "1fc2747f-9c66-4b63-803e-5cda28abc63e",
+   "defaultJobAd": true,
+   "refNumber": "REF69X",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "MG.00.09",
+     "valueLabel": "MG.00.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "null",
+     "valueLabel": "null"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "1ed9c8d0-2ffe-42c4-91d9-656ed43e5bef",
+     "valueLabel": "Registros Abiertos y Continuos"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "1ce17228-1410-4915-971c-636be401d06a",
+     "valueLabel": "CHCT-RE"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "CH",
+     "valueLabel": "CH"
+    }
+   ],
+   "releasedDate": "2026-11-04T20:30:17.380Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016633794-registros-abiertos-plomero",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016633794-registros-abiertos-plomero?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/55b93bbd-5a46-4c55-9261-7f907ba8950e?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El Plomero&#xa0;es responsable de instalar, reparar, remodelar y dar mantenimiento a sistemas de plomería y saneamiento, garantizando su correcto funcionamiento y cumplimiento de los estándares de seguridad y calidad establecidos. Realiza trabajos en sistemas de agua potable, drenaje sanitario, gas, aire, productos químicos y sistemas contra incendios, utilizando herramientas, equipos y técnicas especializadas para asegurar la continuidad y confiabilidad de las instalaciones.</p><p>Funciones principales:</p><ul><li>Instalar, reparar, remodelar y ejecutar el mantenimiento preventivo y correctivo de sistemas de plomería, redes de distribución y conducción de agua potable, drenaje sanitario, gas, aire, lubricación, productos químicos y otros sistemas hidráulicos, garantizando su funcionamiento seguro y eficiente.&#xa0;</li><li>Construir, ensamblar, fabricar, cortar, roscar, soldar, alinear y conectar tuberías, accesorios y componentes de plomería, interpretando planos y especificaciones técnicas para asegurar la correcta instalación de los sistemas conforme a los estándares establecidos.&#xa0;</li><li>Instalar, asegurar, conectar, ajustar y reparar aparatos y dispositivos sanitarios, tales como inodoros, lavamanos, fregaderos, tinas, válvulas, grifos, sifones y demás accesorios, verificando su adecuada operación y desempeño.</li><li>Inspeccionar, diagnosticar y corregir fallas en sistemas de plomería, incluyendo la detección y reparación de fugas, la eliminación de obstrucciones y la sustitución o ajuste de componentes defectuosos para restablecer la continuidad del servicio.&#xa0;</li><li>Realizar pruebas operativas, hidrostáticas y de funcionamiento a los sistemas instalados o reparados, verificando su conformidad con las especificaciones técnicas, normas de seguridad y requerimientos de calidad aplicables.</li></ul><p><strong>Nota:&#xa0;Este anuncio no corresponde a una vacante abierta en este momento. Cuando surja una oportunidad, será notificado para que pueda competir. El registro tendrá una vigencia de un (1) año.</strong></p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente.</li><li>Saber nadar.</li><li>Leer inglés.</li><li>Idoneidad dada por la Junta de Ingenieros y Arquitectos.</li></ul><p><em>Educación:</em></p><p>Cumplir con uno (1) de los siguientes requisitos académicos:</p><ul><li>Diploma de educación secundaria con formación en Fontanería o Plomería.</li><li>Título de Técnico Superior en Fontanería o Plomería.</li><li>Capacitación laboral en Fontanería o Plomería con una duración mínima de 960 horas.</li></ul><p><em>Experiencia de tres (3) años o más en:</em></p><ul><li>Instalación, reparación, remodelación y mantenimiento preventivo y correctivo de sistemas de plomería, garantizando su operatividad, seguridad y cumplimiento de las especificaciones técnicas.&#xa0;</li><li>Ejecución de trabajos en redes y sistemas de tuberías para agua potable, drenaje sanitario, gas, aire, aceites, lubricantes, productos químicos y otros fluidos industriales, incluyendo la fabricación, ensamblaje y conexión de sus componentes.</li><li>Instalación, ajuste, reparación y mantenimiento de dispositivos y accesorios sanitarios, tales como inodoros, lavamanos, fregaderos, válvulas, grifos, sifones, cabezas rociadoras y equipos relacionados.</li><li>Interpretación de planos de construcción y plomería, elaboración de trazados isométricos y aplicación de especificaciones técnicas para la ejecución de proyectos de instalación, modificación y mantenimiento de sistemas de tuberías.</li><li>Operación segura y eficiente de herramientas, equipos y maquinaria especializada de plomería, incluyendo equipos de corte, roscado, soldadura, doblado, limpieza de tuberías y realización de pruebas hidrostáticas y funcionales.</li><li>Diagnóstico y solución de problemas en sistemas de plomería, incluyendo la detección y reparación de fugas, la eliminación de obstrucciones y la sustitución de componentes defectuosos para restablecer el servicio.&#xa0;</li></ul><p><em>Conocimiento en:</em></p><ul><li>Sistemas de plomería para agua potable, gas, aire, lubricación, productos químicos y sistemas sanitarios.</li><li>Ensamble y conexión de tuberías mediante sistemas roscados, soldadura y Sistema Propress.</li><li>Instalación y mantenimiento de bombas, tanques de presión, piscinas, hidrantes y sistemas contra incendios.</li><li>Uso de maquinaria y herramientas especializadas de plomería.</li><li>Lectura e interpretación de planos de construcción/plomería y trazado de isométricos.</li></ul><p>Competencias requeridas:&#xa0;</p><ul><li>Compromiso con la seguridad.</li><li>Trabajo en equipo.</li><li>Orientación al cumplimiento de procedimientos.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Disponibilidad para trabajar en turnos rotativos.</li><li>Podrá ser asignado a trabajar en el Pacífico o el Atlántico.</li><li>El trabajo se realiza en interiores y exteriores, incluyendo espacios confinados, equipos flotantes, andamios y plataformas suspendidas.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder&#xa0;y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:<ul><li>Experiencia relevante, cargo, descripción de funciones y logros. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul></li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990016634894",
+   "name": "REGISTROS ABIERTOS - TECHERO",
+   "uuid": "c0f46977-56a9-4bc0-a662-cce5485ca180",
+   "jobId": "13b08b4f-5ca2-476e-87ca-741b2c9ddb03",
+   "jobAdId": "3a6dde5d-e57e-481a-ae2d-fcfec724f5e4",
+   "defaultJobAd": true,
+   "refNumber": "REF70T",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "MG.00.09",
+     "valueLabel": "MG.00.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "null",
+     "valueLabel": "null"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "fa1b26a9-7371-44a1-bfba-22c9385204fa",
+     "valueLabel": "Ingeniería, mantenimiento y técnicos industriales"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "e521d38e-4f15-4f69-a564-b527e3b4e5b1",
+     "valueLabel": "INOM"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "IN",
+     "valueLabel": "IN"
+    }
+   ],
+   "releasedDate": "2026-11-04T21:03:06.696Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016634894-registros-abiertos-techero",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016634894-registros-abiertos-techero?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/c0f46977-56a9-4bc0-a662-cce5485ca180?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El propósito de esta posición es realizar funciones complejas y especializadas de techado a nivel de obrero calificado. El ocupante del puesto es responsable de planificar, organizar y ejecutar trabajos de instalación, reparación y mantenimiento de techos, identificar y corregir filtraciones, instalar accesorios asociados y garantizar la impermeabilidad y seguridad de las estructuras.</p><p>Funciones principales:</p><ul><li>Instalar, reparar y reemplazar techos, revestimientos, tejas, vigas, juntas, canaletas de desagüe y accesorios asociados.</li><li>Localizar goteras, determinar sus causas y extensión de daños, y ejecutar las reparaciones correspondientes.</li><li>Colocar e instalar diversos tipos de materiales de techado, aislantes, estructuras y revestimientos metálicos.</li><li>Fabricar, instalar, asegurar y soldar accesorios metálicos para techos, asegurando la impermeabilidad de las estructuras.</li><li>Realizar trabajos de protección, sellado y refuerzo de estructuras, incluyendo el control y remoción de murciélagos y el sellado de aberturas.</li></ul><p><strong>Nota:&#xa0;Este anuncio no corresponde a una vacante abierta en este momento. Cuando surja una oportunidad, será notificado para que pueda competir. El registro tendrá una vigencia de un (1) año.</strong></p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Poseer licencia de conducir vigente.</li><li>Saber nadar.<br>\n<br>\n<br>\n&#xa0;</li></ul><p><em>Educación (No excluyente)</em></p><ul><li>Bachiller o Perito Industrial en Construcción o,</li><li>Capacitación Laboral (960 horas o más) como Techero.<br>\n<br>\n<br>\n<br>\n<br>\n&#xa0;</li></ul><p><em>Experiencia de tres (3) años o más en:</em></p><ul><li>Instalación y reparación de techos.</li><li>Detección y reparación de goteras y filtraciones.</li><li>Uso de materiales de techado como tejas, asfalto y revestimientos de fieltro.</li><li>Trabajos de hojalatería y carpintería relacionados con techos.</li><li>Instalación y reparación de accesorios metálicos, canaletas y sistemas de impermeabilización.<br>\n<br>\n<br>\n&#xa0;</li></ul><p><em>Conocimientos en:</em></p><ul><li>Métodos, materiales y técnicas de instalación y reparación de techos.</li><li>Uso de aparejos, poleas y equipos para manejo de materiales en altura.</li><li>Uso de herramientas manuales de hojalatería y carpintería.</li><li>Características y manejo de metales como aluminio, cobre y hierro galvanizado.</li><li>Impermeabilización, instalación de aislantes y aplicación de compuestos elastómeros.</li><li>Lectura e interpretación de planos, bosquejos y copias heliográficas.</li><li>Procedimientos de seguridad para trabajos en altura.</li><li>Control, remoción y sellado de áreas afectadas por murciélagos.</li></ul><p><br>\n<br>\n<em>Competencias requeridas</em></p><ul><li>Planificación y organización del trabajo.</li><li>Atención al detalle.</li><li>Resolución de problemas.</li><li>Trabajo en equipo.</li><li>Compromiso con la seguridad ocupacional.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Disponibilidad para trabajar turnos rotativos cuando las operaciones lo requieran.</li><li>El trabajo se realiza tanto en interiores como en exteriores.</li><li>Exposición a condiciones climáticas variables, calor, humedad, polvo, ruido y vibraciones.</li><li>Requiere trabajo frecuente en alturas, escaleras, andamios y espacios confinados.</li><li>Requiere levantar y transportar materiales y herramientas; cargas superiores a 40 libras deben manejarse con ayuda o equipo de levantamiento.</li><li>Uso obligatorio de equipo de protección personal y respiradores cuando corresponda.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><p>&#xa0;</p><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "administrative",
+    "label": "Administrative"
+   },
+   "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
    }
   }
  ]
