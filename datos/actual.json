@@ -1,6 +1,6 @@
 {
- "descargado": "2026-11-08T20:41:59-05:00",
- "totalFound": 7,
+ "descargado": "2026-11-09T23:04:12-05:00",
+ "totalFound": 9,
  "postings": [
   {
    "id": "3743990015246656",
@@ -915,6 +915,309 @@
     "code": "es-MX",
     "label": "Spanish (LATAM)",
     "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990016739136",
+   "name": "ESPECIALISTA EN INFORMÁTICA (ATENCIÓN AL CLIENTE)",
+   "uuid": "75988778-5b69-4d40-9d19-0e1cebf0f4ea",
+   "jobId": "6bebedc1-9f44-4ce0-aded-43249bc2dfc1",
+   "jobAdId": "0277ae89-b490-49a1-8212-bbda5f4f3ccb",
+   "defaultJobAd": true,
+   "refNumber": "ESPEC EN INFO (ATEN AL CLIENT) NM.00.09 TDA-MS 180163",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama",
+    "country": "pa",
+    "address": "EDIF. 326, COCOLÍBalboa",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Panama, , Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "64f431ef-eac6-4c24-a17f-094ec25bbb70",
+     "valueLabel": "120545.SUPV, ESP EN INF (AT CLIENTE).22100.020.9"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.09",
+     "valueLabel": "NM.00.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "49244aca-274a-41b0-a5d4-6f2361f2ffa4",
+     "valueLabel": "Permanente"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "9b9d45e7-edbb-4f33-9378-0d2c1e87dada",
+     "valueLabel": "Tecnología, datos y transformación digital"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "ac9556c8-d063-4d1f-9c36-382093bcd268",
+     "valueLabel": "TDA-MS"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2277077",
+     "valueLabel": "2277077"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "180163"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "TD",
+     "valueLabel": "TD"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "8d5fd77b-a181-410d-adf6-d4755d74c27c",
+     "valueLabel": "AVILA MELO, JESSICA ODERAY"
+    }
+   ],
+   "releasedDate": "2026-11-09T19:38:53.530Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016739136-especialista-en-informatica-atencion-al-cliente-",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016739136-especialista-en-informatica-atencion-al-cliente-?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/75988778-5b69-4d40-9d19-0e1cebf0f4ea?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El puesto tiene como objetivo brindar soporte especializado (L2) a aplicaciones marítimas y soporte estándar (L1) a los servicios tecnológicos del Canal de Panamá, asegurando la disponibilidad, continuidad y correcto funcionamiento de aplicaciones y sistemas utilizados por usuarios internos y externos. Asimismo, participa en el análisis, diagnóstico, solución de incidentes, validación de cambios y capacitación de usuarios.&#xa0;</p><p>Funciones principales:</p><ul><li>Brindar soporte técnico especializado a aplicaciones marítimas y servicios tecnológicos corporativos.</li><li>Analizar, diagnosticar y resolver incidentes, solicitudes de servicio y problemas relacionados con sistemas operacionales y administrativos.</li><li>Participar en pruebas funcionales, validación de cambios y aseguramiento de la calidad de las aplicaciones.</li><li>Capacitar y orientar a usuarios internos y externos sobre el uso de aplicaciones y servicios tecnológicos.</li><li>Mantener documentación técnica y registros de incidentes, solicitudes, problemas y cambios en herramientas ITSM.&#xa0;</li></ul><p>Tipo de contratación: Permanente.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Nivel de inglés intermedio (hablar, leer y escribir).</li><li>Requiere trabajar turnos rotativos.<br>\n&#xa0;</li></ul><p><em>Educación</em></p><ul><li>Título de licenciatura en Informática, Ingeniería Informática, Sistemas de Información, Ingeniería de Sistemas o carreras afines.</li></ul><p>&#xa0;</p><p><em>Experiencia de dos (2) años o más en:</em></p><ul><li>Soporte técnico de aplicaciones empresariales y corporativas.</li><li>Diagnóstico y resolución de incidentes tecnológicos.</li><li>Soporte a usuarios internos y externos.</li><li>Gestión de incidentes, solicitudes de servicio y cambios en entornos de TI.</li><li>Capacitación y asistencia funcional a usuarios.<br>\n<br>\n&#xa0;</li></ul><p><em>Conocimientos en:</em></p><ul><li>Gestión de incidentes, problemas, solicitudes de servicio y cambios (ITSM).</li><li>Bases de datos, extracción de datos y aplicaciones informáticas.</li><li>Sistemas operativos, hardware, redes y conectividad.</li><li>Aplicaciones de la Ventanilla Única Marítima de Panamá (VUMPA).</li><li>Metodologías de pruebas funcionales y validación de aplicaciones.&#xa0;</li></ul><p><br>\n<br>\n<em>Competencias requeridas:</em></p><ul><li>Análisis y solución de problemas.</li><li>Orientación al cliente.</li><li>Comunicación efectiva.</li><li>Trabajo en equipo y coordinación interdepartamental.</li><li>Adaptabilidad y manejo de presión.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Atención de incidentes y solicitudes fuera de horario laboral, fines de semana y días festivos según sea requerido.</li><li>Posibilidad de realizar asignaciones temporales en áreas remotas del Canal de Panamá.&#xa0;</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "max": 20.68,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990016741576",
+   "name": "ANALISTA DE PROGRAMAS",
+   "uuid": "d1604580-5182-46bb-83ad-cb680be37dc5",
+   "jobId": "24d7c121-bd39-4244-bf91-b53feffc371f",
+   "jobAdId": "c746f1ec-069b-42d0-a7df-c324bc35ac09",
+   "defaultJobAd": true,
+   "refNumber": "ANALISTA DE PROGRAMAS NM.00.12 SA-S 176022",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "020111.GRTE DE SOSTENIBILIDAD.03010.759.1",
+     "valueLabel": "020111.GRTE DE SOSTENIBILIDAD.03010.759.1"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.12",
+     "valueLabel": "NM.00.12"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "49244aca-274a-41b0-a5d4-6f2361f2ffa4",
+     "valueLabel": "Permanente"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "5ea6283b-fa11-4a61-91b3-f5ae56fff344",
+     "valueLabel": "Ciencias ambientales e investigación"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "e09b08a8-0f16-4277-a09b-da28257eff66",
+     "valueLabel": "PACÍFICO"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "40bbff05-2b61-4908-bd7d-5c429a415ae8",
+     "valueLabel": "SA-S"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2707314",
+     "valueLabel": "2707314"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "176022"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "SA",
+     "valueLabel": "SA"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "b2b3b88c-ef3e-4a3a-b87e-99467286bb46",
+     "valueLabel": "LUCK ARCHBOLD, ESTELA DEL CARMEN"
+    }
+   ],
+   "releasedDate": "2026-11-09T20:41:50.657Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016741576-analista-de-programas",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016741576-analista-de-programas?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/d1604580-5182-46bb-83ad-cb680be37dc5?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El Analista de Programas gestiona y apoya la incorporación e integración de la estrategia de desarrollo resiliente al cambio climático en la ACP, coordinando la recopilación, análisis y divulgación de información climática, así como el seguimiento de objetivos, iniciativas y reportes de sostenibilidad corporativa.</p><p><strong>Funciones principales:</strong></p><ul><li>Gestionar la preparación de informes externos relacionados con el clima y sostenibilidad de la ACP.</li><li>Coordinar la recopilación, procesamiento y análisis de datos para informes de descarbonización, riesgo, adaptación y transición justa.</li><li>Gestionar y supervisar la aplicación del plan de participación de las partes interesadas en temas climáticos.</li><li>Realizar investigaciones sobre marcos de evaluación y divulgación climática, tendencias y mejores prácticas nacionales e internacionales.</li><li>Apoyar la presentación de informes, proyectos y actividades relacionadas con la estrategia climática de la ACP.&#xa0;</li></ul><p><strong>Tipo de contratación:</strong> Permanente.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente.</li><li>Ingles avanzado&#xa0;(hablar, leer y escribir).</li></ul><p><em>Educación:</em></p><ul><li>Título de estudios universitarios completos.&#xa0;</li></ul><p><em>Experiencia especializada de 5 años o más en:</em></p><ul><li>Elaboración de informes de sostenibilidad corporativa.</li><li>Recopilación, análisis y procesamiento de datos climáticos.</li><li>Evaluación de escenarios climáticos y análisis de riesgos y vulnerabilidades.</li><li>Divulgación corporativa y plataformas de informes climáticos, incluyendo CDP.</li><li>Gestión y seguimiento de programas, proyectos e iniciativas de sostenibilidad y cambio climático.&#xa0;</li><li>Manejo de Microsoft PowerPoint, Excel y Word.</li></ul><p>Conocimientos en:</p><ul><li>Marcos y estándares de divulgación climática y sostenibilidad corporativa.</li><li>Análisis de datos climáticos, escenarios climáticos, riesgos, vulnerabilidades y consideraciones financieras asociadas.</li></ul><p>Competencias requeridas:</p><ul><li>Excelentes habilidades cuantitativas, analíticas, interpretativas y de resolución de problemas.</li><li>Habilidad para comunicarse con efectividad de forma oral y escrita.</li><li>Planificación, gestión, facilitación y organización de proyectos.</li><li>Capacidad para trabajar bajo presión y manejar múltiples tareas simultáneamente.</li><li>Habilidades interpersonales, colaboración y trabajo con múltiples partes interesadas.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Disponibilidad para viajar dentro y fuera de Panamá cuando sea requerido.</li><li>Ocasionalmente deberá realizar visitas de campo asociadas a proyectos y sitios de trabajo.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 29.49,
+    "max": 29.49,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es",
+    "label": "Spanish",
+    "labelNative": "español"
    }
   }
  ]
