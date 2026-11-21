@@ -1,6 +1,6 @@
 {
- "descargado": "2026-11-19T22:05:12-05:00",
- "totalFound": 4,
+ "descargado": "2026-11-20T22:10:10-05:00",
+ "totalFound": 5,
  "postings": [
   {
    "id": "3743990015246656",
@@ -554,6 +554,160 @@
     "code": "es",
     "label": "Spanish",
     "labelNative": "español"
+   }
+  },
+  {
+   "id": "3743990017000660",
+   "name": "ESPECIALISTA INTERDISCIPLINARIO EN CIENCIAS SOCIALES ",
+   "uuid": "df8e857b-05b0-468d-9969-8cf40b0a1229",
+   "jobId": "6cd25593-18b5-4c3c-9e3f-bb8ffe23c1e1",
+   "jobAdId": "43ed6fa4-984b-4cc2-9925-b755363c30fd",
+   "defaultJobAd": true,
+   "refNumber": "ESPEC INTER (CIENC SOCIALES) NM.03.09 HIS-DC 166811",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "320376.SUPV, ESPEC PROTEC AMBIENTAL.00280.001.1",
+     "valueLabel": "320376.SUPV, ESPEC PROTEC AMBIENTAL.00280.001.1"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.03.09",
+     "valueLabel": "NM.03.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "5ea6283b-fa11-4a61-91b3-f5ae56fff344",
+     "valueLabel": "Ciencias ambientales e investigación"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "e09b08a8-0f16-4277-a09b-da28257eff66",
+     "valueLabel": "PACÍFICO"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "bdcf1a50-8de5-483c-8d5c-68947d59b1cc",
+     "valueLabel": "HIS-DC"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2787741",
+     "valueLabel": "2787741"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "166811"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "HI",
+     "valueLabel": "HI"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "101ea0fd-4dda-4826-966b-c045372e9cca",
+     "valueLabel": "TREJOS MEJIA, GLORIA"
+    }
+   ],
+   "releasedDate": "2026-11-20T16:45:08.814Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017000660-especialista-interdisciplinario-en-ciencias-sociales-",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017000660-especialista-interdisciplinario-en-ciencias-sociales-?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/df8e857b-05b0-468d-9969-8cf40b0a1229?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El Especialista Interdisciplinario en Ciencias Sociales es responsable de desarrollar investigaciones sociológicas y diagnósticos socioeconómicos y culturales en las áreas de influencia de los proyectos, con el fin de apoyar la gestión social y ambiental del programa. El puesto contribuye al fortalecimiento del relacionamiento comunitario y a la promoción del desarrollo sostenible en la Cuenca Hidrográfica del Canal y áreas aledañas, asegurando el cumplimiento de los estándares nacionales e internacionales aplicables.</p><p><em>Funciones principales</em></p><p>• Realizar investigaciones sociológicas y diagnósticos socioeconómicos y culturales en las áreas de influencia de los proyectos.<br>\n• Participar en procesos de relacionamiento comunitario, consulta ciudadana y divulgación con actores clave.<br>\n• Dar seguimiento y verificar el cumplimiento social y ambiental de los proyectos del programa.<br>\n• Apoyar el diseño y la evaluación de iniciativas socioambientales y de desarrollo sostenible.<br>\n• Mantener interacción directa con comunidades rurales, instituciones gubernamentales, organizaciones no gubernamentales y otros grupos de interés.</p><p>Tipo de contrato: Temporal</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente.</li><li>Saber nadar</li></ul><p><em>Educación:</em></p><ul><li>Título universitario en una de las siguientes disciplinas Sociología o Trabajo Social.</li><li>Idoneidad profesional expedida por la entidad competente para ejercer en la República de Panamá.</li></ul><p><em>Experiencia de dos &#xa0;(2) años o más en:</em></p><ul><li>Realizar investigaciones sociológicas y diagnósticos socioeconómicos y culturales en comunidades aplicando metodologías de investigación social, análisis comunitario y evaluación institucional en territorios rurales y zonas de influencia de proyectos.</li><li>Dar seguimiento a contratistas, obras y actividades para verificar el cumplimiento social y ambiental. supervisando actividades, obras y estudios desarrollados por contratistas o terceros, revisando informes, planes y procedimientos, y asegurando la implementación de estándares nacionales e internacionales aplicables.</li><li>Atender y dar seguimiento a quejas, denuncias y solicitudes de información en comunidades de áreas de influencia.</li><li>Elaborar informes, presentaciones, resúmenes, documentos técnicos y ayudas memoria para diversas audiencias.</li><li>Planificación y conducción de procesos de relacionamiento comunitario, tales como consultas ciudadanas, mesas de diálogo, mecanismos de participación, divulgación de información y coordinación con actores clave (comunidades, autoridades locales, ONG, instituciones gubernamentales, grupos productivos y organizaciones de base).</li><li>Monitorear proyectos incluyendo verificación de actividades comunitarias, levantamiento de información, documentación fotográfica y supervisión de medidas de mitigación social y ambiental en áreas rurales, de difícil acceso o bajo condiciones operativas especiales.</li></ul><p>&#xa0;</p><p><em>Conocimientos en:</em></p><ul><li>Técnicas en gestión de conflictos, relacionamiento comunitario y aplicación de mejores prácticas socioambientales.</li><li>Elaboración de diagnósticos sociales y socioeconómicos.</li><li>&#xa0;Preparación de documentos técnicos y planes ambientales y sociales presentados por consultores, contratistas y actores clave.</li><li>Dominio de técnicas para la elaboración de diagnósticos sociales, análisis comunitario y evaluación socioeconómica.</li><li>Auditorías sociales y seguimiento de la implementación de programas de mejoramiento socioeconómico.</li><li>&#xa0;Experiencia trabajando con comunidades rurales en temas de desarrollo sostenible, o desarrollo rural.</li></ul><p><em>Competencias requeridas:</em></p><ul><li>Comunicación</li><li>Colaboración</li><li>Confidencialidad</li><li>Negociación y manejo de conflictos</li><li>Resiliencia</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>El trabajo se desarrolla tanto en oficina como en campo.</li><li>Requiere giras frecuentes a comunidades y áreas de difícil acceso.</li><li>Puede requerir desplazamientos en bote, a caballo, helicóptero y vehículos 4x4.</li><li>Exposición a condiciones climáticas variables y uso obligatorio de equipo de protección personal durante actividades de campo.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 20.58,
+    "max": 20.58,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "unpublishOn": "2026-11-27T05:00:00.000Z",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
    }
   }
  ]
