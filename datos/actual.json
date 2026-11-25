@@ -1,6 +1,6 @@
 {
- "descargado": "2026-11-24T00:57:17-05:00",
- "totalFound": 4,
+ "descargado": "2026-11-24T23:52:23-05:00",
+ "totalFound": 8,
  "postings": [
   {
    "id": "3743990015246656",
@@ -534,6 +534,619 @@
    "active": true,
    "visibility": "PUBLIC",
    "unpublishOn": "2026-11-27T05:00:00.000Z",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990017066546",
+   "name": "OPERADOR DE LOCOMOTORAS DE ESCLUSAS EN ADIESTRAMIENTO",
+   "uuid": "1e568c0a-23f7-459a-9616-fdf426e6c753",
+   "jobId": "4b511340-2311-4209-a0d3-af3c0c6bc653",
+   "jobAdId": "6fe47295-299c-4102-a626-d30db36a2175",
+   "defaultJobAd": true,
+   "refNumber": "OPER LOCOMOTORAS DE ESCL EN AD AP.01.09 OPEP-MO 185925",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama",
+    "country": "pa",
+    "address": "EDIF. 1, MIRAFLORESBalboa",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Panama, , Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "430119.CPTZ GRAL, OPERAC DE ESCLUSAS.54260.039.4",
+     "valueLabel": "430119.CPTZ GRAL, OPERAC DE ESCLUSAS.54260.039.4"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "AP.01.09",
+     "valueLabel": "AP.01.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "949ca64a-78cb-44d1-908d-d87061fbd725",
+     "valueLabel": "Operaciones Marítimas y de Tránsito"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "e09b08a8-0f16-4277-a09b-da28257eff66",
+     "valueLabel": "PACÍFICO"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "cd15fa29-b007-46f4-916d-db653ffc3763",
+     "valueLabel": "OPEP-MO"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2256169",
+     "valueLabel": "2256169"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "185925"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "OP",
+     "valueLabel": "OP"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "fce10685-3203-4c9c-bbaf-105cdd4a9bb1",
+     "valueLabel": "CORREA DOMINGUEZ, ENRIQUE ANTONIO"
+    }
+   ],
+   "releasedDate": "2026-11-24T17:35:13.472Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017066546-operador-de-locomotoras-de-esclusas-en-adiestramiento",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017066546-operador-de-locomotoras-de-esclusas-en-adiestramiento?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/1e568c0a-23f7-459a-9616-fdf426e6c753?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El titular es responsable de completar un programa de adiestramiento teórico y práctico para aprender a operar las locomotoras eléctricas de remolque que guían a los buques a través de las cámaras de las esclusas del Canal de Panamá. Durante el programa se familiariza con los trabajos específicos de la unidad, trabaja bajo supervisión cercana y realiza asignaciones de complejidad y responsabilidad limitadas, mientras desarrolla las destrezas necesarias para desempeñarse como operador. Forma parte de una cuadrilla de esclusaje en una operación continua, donde la seguridad, la precisión y la coordinación con el resto del equipo son esenciales.</p><p>&#xa0;</p><p><strong>Funciones principales:</strong></p><ul><li>Aprender a operar la locomotora de remolque, una máquina eléctrica que se desplaza sobre rieles a cada lado de la cámara, controlando su velocidad y frenado en coordinación con las demás locomotoras.</li><li>Aplicar la tensión adecuada a los cables de acero que sujetan al buque, coordinando la velocidad de la locomotora con la del barco según las instrucciones del práctico y del maestre de esclusa.</li><li>Coordinar con el líder de los pasacables la colocación de los cables de la locomotora en el buque.</li><li>Verificar al inicio de cada turno que la locomotora esté en condiciones de operar y cumpla con los estándares de seguridad.</li><li>Realizar tareas de mantenimiento básico de la locomotora: engrase y revisión de cables, limpieza interior y exterior, revisión de niveles de aceite, detección de fugas y verificación de indicadores y del compresor.</li><li>Operar tornamesas e interruptores de cruce para cambiar la locomotora de vía, ubicarla donde se requiera y apoyar maniobras con compuertas flotantes, grúas flotantes y barcazas.</li><li>Reportar de inmediato al maestre de esclusa cualquier condición insegura o inusual y apoyar las labores de limpieza y mantenimiento de las instalaciones entre esclusajes.</li></ul><p>&#xa0;</p><p><strong>Tipo de contratación:</strong> Temporal.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Dominio del idioma inglés para entender y&#xa0;seguir comandos e instrucciones de trabajo.</li><li>Dominio de la natación, ya que el trabajo se realiza junto a aguas profundas.</li><li>Licencia de conducir vigente, o bien obtenerla antes de finalizar el programa.</li><li>Turnos rotativos.</li><li>Aprobar las pruebas asociadas al programa.</li></ul><p>&#xa0;</p><p><em>Educación:&#xa0;</em></p><ul><li>Título de bachiller (segundo ciclo de escuela secundaria o duodécimo grado).</li></ul><p>&#xa0;</p><p><em>Experiencia de dieciocho (18) meses o más:&#xa0;</em></p><ul><li>A nivel técnico o superior en alguno de los siguientes oficios: electricista, mecánico, aparejador, operador de grúas, operador de equipo pesado o de ingeniería.</li></ul><p>&#xa0;</p><p><em>Conocimientos en:</em></p><ul><li>Aptitud mecánica y eléctrica, con interés en operar y cuidar maquinaria pesada.</li><li>Disposición para aprender y seguir con rigor procedimientos, reglamentos de seguridad e instructivos de trabajo.</li><li>Atención sostenida y capacidad de reaccionar con rapidez y exactitud ante cambios en la operación o fallas del equipo.</li><li>Aplicación de procedimientos e instructivos de trabajo.</li><li>Adaptabilidad ante cambios en los procesos operativos y tecnológicos.</li></ul><p>&#xa0;</p><p><em>Competencias:</em></p><ul><li>Orientación a la seguridad</li><li>Apego a procedimientos</li><li>Juicio y reacción bajo presión</li><li>Trabajo en equipo y coordinación</li><li>Orientación al servicio y mejora continua.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>El puesto forma parte de un programa de capacitación y adiestramiento con formación teórica y práctica.</li><li>Oportunidad de adiestramiento con oportunidad de crecimiento y desarrollo profesional conforme al programa.</li><li>El programa se llevará a&#xa0;cabo en el sector Pacífico o en el sector Atlántico.</li><li>Puede requerir trabajar turnos rotativos, jornadas especiales, fines de semana y días feriados.</li><li>Trabajo a la intemperie, de día y de noche, en toda clase de condiciones del tiempo, en el borde de los muros de las esclusas, cerca de aguas profundas y de maquinaria en movimiento, con exposición a polvo, grasa, aceite y humo de los barcos.</li><li>Permanece la mayor parte del turno sentado en la cabina de la locomotora, con cambios de temperatura; en ocasiones debe agacharse o trabajar en posiciones incómodas.</li><li>Operación en la que las condiciones cambian al instante y los errores pueden causar demoras, lesiones o daños, por lo que exige precisión y manejo de la tensión.</li></ul><p>&#xa0;</p><p><em>Documentación</em></p><ul><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos de bachiller,&#xa0;universitarios y licencia de conducir.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 7.7,
+    "max": 7.7,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "unpublishOn": "2026-12-02T05:00:00.000Z",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990017071076",
+   "name": "ESPECIALISTA EN PLANIFICACIÓN PARA CONTINGENCIAS",
+   "uuid": "77ae74cf-2c39-4bb5-9dd2-1aa3b79d6a79",
+   "jobId": "f5691dcc-fca5-415c-8fff-b5d2342ff612",
+   "jobAdId": "56e89719-e378-4b9b-beaa-88850f3a006a",
+   "defaultJobAd": true,
+   "refNumber": "ESP EN PLAN PARA CONTINGENCIAS NM.00.11 OPP-PP 185403",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "820126.SUPV, ESP EN PLAN PARA CONTIN.13010.007.6",
+     "valueLabel": "820126.SUPV, ESP EN PLAN PARA CONTIN.13010.007.6"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.11",
+     "valueLabel": "NM.00.11"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "fa1b26a9-7371-44a1-bfba-22c9385204fa",
+     "valueLabel": "Ingeniería, mantenimiento y técnicos industriales"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "e09b08a8-0f16-4277-a09b-da28257eff66",
+     "valueLabel": "PACÍFICO"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "dafac897-e935-4f33-ac19-5ae2cef10f20",
+     "valueLabel": "OPP-PP"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2287447",
+     "valueLabel": "2287447"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "185403"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "OP",
+     "valueLabel": "OP"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "b6ddb7e6-fae2-46c3-9c8d-fa41797dd052",
+     "valueLabel": "D'MEZA CASIS, OCTAVIO ERNESTO"
+    }
+   ],
+   "releasedDate": "2026-11-24T19:23:36.610Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017071076-especialista-en-planificacion-para-contingencias",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017071076-especialista-en-planificacion-para-contingencias?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/77ae74cf-2c39-4bb5-9dd2-1aa3b79d6a79?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p><p>&#xa0;</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>Responsable de planificar la preparación para la respuesta a emergencias de la ACP, desarrollar y mantener planes de respuesta a emergencias, coordinar actividades de preparación y capacitación, brindar asesoría técnica especializada en el manejo de incidentes con materiales peligrosos e hidrocarburos, y apoyar la gestión de crisis para proteger las operaciones, el ambiente y la imagen institucional.<br>\n<br>\nFunciones principales:</p><ul><li>Planificar, desarrollar y mantener planes, programas y proyectos de preparación y respuesta a emergencias.</li><li>Brindar asesoría técnica especializada en incidentes con materiales peligrosos, sustancias químicas e hidrocarburos.</li><li>Coordinar programas de capacitación, ejercicios y simulacros de preparación y respuesta a emergencias.</li><li>Evaluar planes de contingencia, riesgos y escenarios de emergencia para formular recomendaciones técnicas.</li><li>Participar en la gestión de crisis, coordinación interinstitucional y representación de la ACP en foros técnicos relacionados con respuesta a emergencias.</li></ul><p>Tipo de contratación: Temporal.</p><p>&#xa0;</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<p>&#xa0;</p><ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente.</li><li>Saber nadar.</li><li>Inglés nivel intermedio (hablar, leer y escribir).</li><li>Disponibilidad para trabajar en horarios especiales y permanecer de guardia cuando las necesidades operativas lo requieran</li></ul><p><br>\n<br>\n<br>\n<em>Educación</em></p><ul><li>Título universitario en Química, Ingeniería Química, Física, ciencias ambientales, seguridad y salud ocupacional, salud radiológica u otras áreas afines.</li></ul><p><br>\n<br>\n<br>\n<em>Experiencia de un (1) año o más en:</em></p><ul><li>Planificación y preparación para respuesta a emergencias.</li><li>Manejo de materiales peligrosos y respuesta a incidentes con sustancias químicas.</li><li>Desarrollo y evaluación de planes de contingencia y análisis de riesgos.</li><li>Gestión de crisis y coordinación de actividades de respuesta a emergencias.</li><li>Capacitación, ejercicios y simulacros de preparación y respuesta a emergencias.</li></ul><p><br>\n<br>\n<br>\n<br>\n<em>Conocimientos en:</em></p><ul><li>Elaboración de planes de contingencia y análisis de riesgos con énfasis en materiales peligrosos.</li><li>Vulnerabilidad, amenaza, probabilidad e impacto aplicados a la gestión de emergencias.</li><li>Transporte, almacenamiento y manejo de materiales peligrosos y carga peligrosa.</li><li>Prevención y extinción de incendios.</li><li>Uso de equipos e instrumentos para detección y medición de atmósferas inflamables, tóxicas y radiación. Sistemas de Comando de Incidentes (SCI).</li><li>Construcción básica de buques, sistemas de protección contra incendios y operaciones marítimas relacionadas.</li><li>Aplicaciones informáticas utilizadas en respuesta a emergencias.</li></ul><p><br>\n<br>\n<br>\n<br>\n<br>\n<em>Competencias requeridas</em></p><ul><li>Análisis y solución de problemas.</li><li>Toma de decisiones.</li><li>Comunicación efectiva.</li><li>Trabajo en equipo y coordinación interinstitucional.</li><li>Orientación a resultados y manejo de situaciones de crisis.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<p>&#xa0;</p><ul><li>Requiere participación ocasional en inspecciones, visitas de campo, abordaje de buques y actividades de respuesta a emergencias.</li><li>Requiere desplazamientos y actividades en áreas operativas, incluyendo embarcaciones y zonas industriales.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando. Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya: Experiencia relevante, cargo, funciones y logros. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "max": 17.14,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "unpublishOn": "2026-12-02T05:00:00.000Z",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990017072610",
+   "name": "CAPITÁN DE BARCAZA DE PERFORACIÓN EN ADIESTRAMIENTO",
+   "uuid": "b594eae9-2796-43db-9d1c-25eed253a3c3",
+   "jobId": "8514a554-df77-4a55-bd35-b98480a172b1",
+   "jobAdId": "51ddcf3c-0108-4642-9009-987571ecf727",
+   "defaultJobAd": true,
+   "refNumber": "CAP BARCAZA PERFORACIÓN ADIES FE.00.11 INCD-PS 178134",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "501370.CAP RESPONS DE BARCAZA DE PERF.57820.049.5",
+     "valueLabel": "501370.CAP RESPONS DE BARCAZA DE PERF.57820.049.5"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "FE.00.11",
+     "valueLabel": "FE.00.11"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "949ca64a-78cb-44d1-908d-d87061fbd725",
+     "valueLabel": "Operaciones Marítimas y de Tránsito"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "AMBAS ÁREAS",
+     "valueLabel": "AMBAS ÁREAS"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "8053ef8a-8068-4beb-984e-2a8463765983",
+     "valueLabel": "INCD-PS"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2209110",
+     "valueLabel": "2209110"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "178134"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "IN",
+     "valueLabel": "IN"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "0dfac635-e077-4b5b-95fe-ed8c4294080f",
+     "valueLabel": "PEREZ OVALLES, RICARDO APOLINAR"
+    }
+   ],
+   "releasedDate": "2026-11-24T20:15:09.295Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017072610-capitan-de-barcaza-de-perforacion-en-adiestramiento",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017072610-capitan-de-barcaza-de-perforacion-en-adiestramiento?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/b594eae9-2796-43db-9d1c-25eed253a3c3?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>Esta convocatoria corresponde a un programa de adiestramiento: la Autoridad del Canal de Panamá forma al participante, dentro de la operación real, para desempeñarse como capitán encargado del turno a bordo de una barcaza de perforación. Durante el programa, el participante trabaja bajo supervisión y va asumiendo de forma progresiva las funciones del puesto, hasta estar en capacidad de ejercerlas por cuenta propia y de obtener la licencia que exige el puesto.</p><p>Al concluir el programa, el titular es responsable de dirigir, durante su turno de guardia, las operaciones de perforación y voladura subacuática que se realizan a bordo de la barcaza de perforación del Canal, y de mantener la continuidad, el mantenimiento y la seguridad de esa operación. Este trabajo sostiene los programas de mantenimiento y mejoramiento del cauce de navegación, por lo que se coordina de forma permanente con las unidades de operación del Canal para no interrumpir el tránsito de naves. Es un puesto de mando por turno: dirige al personal de perforación y voladura asignado a su guardia y reemplaza en todas sus funciones al capitán responsable de la barcaza. El trabajo se realiza en un ambiente marítimo de alto riesgo, con manejo de grandes cantidades de explosivos, y en turnos rotativos.</p><p><em>Funciones principales</em></p><p>Estas son las funciones que enseña el programa y que el titular ejerce al completarlo. Durante el adiestramiento se practican bajo supervisión.</p><ul><li>Dirigir las operaciones continuas de perforación y voladura de su guardia: alinear la barcaza con los patrones de perforación y retirarla a una distancia segura una vez que el patrón está perforado y cargado.</li><li>Responder por la carga, el manejo y la detonación segura y eficiente de los explosivos y materiales de perforación.</li><li>Coordinar con las unidades de operación del Canal las voladuras y la limpieza de los patrones, sin interrumpir el tránsito normal de naves.</li><li>Supervisar al personal de su guardia (líder explosivista y operadores de equipo de perforación), distribuir el trabajo y hacer cumplir las normas de seguridad, con autoridad para detener las labores ante cualquier condición insegura.</li><li>Inspeccionar la maquinaria y el equipo durante la guardia, coordinar diagnósticos y reparaciones con el maquinista, conducir simulacros de incendio y reuniones de seguridad, y reportar necesidades de mantenimiento y mejoras.</li><li>Llevar la bitácora de la guardia (eventos, asistencia y patrones de voladura), los registros de mantenimiento e inventarios, y preparar informes diarios de avance y semanales de explosivos, materiales y brocas, incluido el costo de broca por pie cuadrado perforado.</li><li>Apoyar en la preparación de especificaciones y la evaluación de ofertas para la compra de explosivos, detonadores, herramientas y equipo, y solicitar por medio del capitán responsable los suministros y repuestos de la operación.</li></ul><p>Tipo de contratación: temporal.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<p>Para ingresar al programa se requiere, sin excepción:</p><ul><li>Nacionalidad panameña.</li><li>Idioma inglés. Aprobar examen de inglés nivel B1+.</li><li>Natación. Aprobar examen de natación.</li><li>Licencia de conducir. Licencia de conducir vigente.</li><li>Requisitos físicos. Cumplir con los requisitos físicos que establecen la Junta de Inspectores y la Autoridad del Canal de Panamá para las funciones de este puesto.</li></ul><p><em>Requisito posterior al ingreso:</em></p><ul><li>Licencia. El puesto exige la licencia de Capitán de Equipo Flotante de Dragado sin Autopropulsión, expedida por la Junta de Inspectores, que debe obtenerse dentro de los noventa (90) días siguientes al primer día de trabajo en el puesto. El programa prepara para cumplir con este requisito.</li></ul><p>Se realizan pruebas a los candidatos para comprobar los conocimientos, destrezas, habilidades y competencias que exige el puesto (por ejemplo, pruebas psicológicas o de dominio del idioma inglés).</p><p><em>Educación</em></p><p>Requisito básico:<strong> </strong>Ser egresado de un programa para Oficiales de Cubierta de una escuela náutica o academia marítima cuyos programas académicos cumplan con el Convenio Internacional sobre Normas de Formación, Titulación y Guardia para la Gente de Mar, 1978/95, (STCW) de la Organización Marítima Internacional (OMI).</p><p><em>Experiencia</em></p><p>Qué necesitas</p><p>Para desempeñarte como Capitán de Barcaza de Perforación necesitas experiencia como oficial de cubierta en equipo flotante de dragado sin autopropulsión, acreditada de una de estas dos formas:</p><ul><li>Haber completado el programa de adiestramiento del Canal para Oficiales de Cubierta de equipo flotante sin autopropulsión y tener al menos 12 meses de experiencia como Oficial en la cubierta de ese tipo de equipo; o</li><li>Tener 4 años de experiencia como Oficial de Dragas y contar con la licencia de Oficial de Equipo Flotante de Dragado sin Autopropulsión del Canal, vigente o vencida.</li></ul><p><em>Cómo puedes completarla</em></p><p>Cuentan las guardias cumplidas a bordo de equipo flotante cuya misión principal sea alguna de estas:</p><ul><li>Perforación subacuática y voladura con explosivos de alto calibre.</li><li>Operación de equipo flotante de dragado sin autopropulsión de 2&#xa0;000 kW de potencia o más.</li><li>Operación de grúas flotantes sin autopropulsión con capacidad de izado de 75 toneladas o más.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<p><em>Conocimientos y habilidades</em></p><p>Estos son los conocimientos y habilidades que el programa desarrolla y evalúa:</p><ul><li>Operación de barcazas de perforación y perforadoras, y maniobra y posicionamiento de equipo flotante sin autopropulsión.</li><li>Voladura subacuática y manejo seguro de explosivos, detonadores y materiales de voladura.</li><li>Normas de seguridad para el trabajo marítimo y con explosivos, identificación de peligros y prevención de incendios.</li><li>Supervisión de personal a bordo: distribución del trabajo, capacitación en seguridad y trabajo con autonomía.</li><li>Comunicación oral y escrita en español e inglés, y coordinación con otras unidades de la operación del Canal.</li><li>Elaboración de bitácoras, registros de mantenimiento, inventarios e informes diarios y semanales.</li><li>Cálculo de consumos y costos de operación, y apoyo en especificaciones y evaluación de ofertas de compra.</li><li>Disposición para el aprendizaje continuo y para cumplir las evaluaciones y adiestramientos del programa.</li></ul><p><em>Competencias</em></p><ul><li>Seguridad operacional. Competencia central del puesto: responde por la seguridad de la barcaza, del personal y de la voladura durante todo el turno.</li><li>Liderazgo de guardia. Dirige al personal de su turno y lleva el control de su asistencia.</li><li>Toma de decisiones bajo presión. Resuelve situaciones críticas en operaciones con explosivos y en un entorno de tránsito activo.</li><li>Coordinación y comunicación. Mantiene una interlocución efectiva con las unidades de operaciones del Canal y con el Capitán Responsable.</li><li>Planificación. Secuencia las etapas de perforación, carga, retiro y detonación sin afectar el tránsito.</li><li>Rigor y atención al detalle. Lo exigen la bitácora, el control de inventario de explosivos y los reportes.</li><li>Orientación a la eficiencia y el costo. Da seguimiento al consumo de brocas y materiales y evalúa ofertas.</li><li>Responsabilidad y cumplimiento normativo. El manejo de materiales peligrosos requiere apego estricto a procedimientos.</li></ul><p><em>Otras condiciones</em></p><ul><li>El adiestramiento se cumple en la operación real, a bordo de la barcaza de perforación, en turnos rotativos de guardia y bajo la supervisión del capitán responsable.</li><li>Disponibilidad para atender emergencias y trabajar fuera del horario regular; según las necesidades operativas, puede requerirse trabajar jornadas extendidas para mantener al mínimo la interrupción del tránsito por el Canal.</li><li>Ambiente de alto riesgo por el manejo de grandes cantidades de explosivos, con peligro de explosión accidental. El contacto con explosivos puede causar dolor de cabeza fuerte, irritación en la piel o cansancio.</li><li>Exposición a los peligros propios de las operaciones marítimas, en especial en cubierta y cerca de buques en tránsito, así como a la intemperie, fallas de equipo y alta exigencia mental. Las torres de perforación aumentan el riesgo de impacto de rayos durante tormentas eléctricas.</li><li>Embarque y desembarque de equipos flotantes, incluso en operación, desde muelles, lanchas, remolcadores y riberas, y trabajo sobre cubiertas resbalosas, lodosas o grasosas, de día o de noche y con lluvia, neblina, viento u oleaje.</li></ul><p><em>Documentos requeridos </em></p><p>Adjunta:</p><p>1. Hoja de vida<br>\nPresenta una hoja de vida legible, de máximo 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</p><p>Por cada experiencia laboral relevante que respalde los requisitos, indica:</p><ul><li>nombre del empleador;</li><li>nombre del barco;</li><li>cargo o posición;</li><li>funciones principales y logros;</li><li>fecha de inicio y de fin (mes/año).</li></ul><p>2. Documentos de respaldo<br>\nAdjunta lo siguiente:</p><ul><li>licencia de conducir;</li><li>licencias marítimas que poseas;</li><li>cartas o certificaciones que acrediten tu experiencia a bordo;</li><li>diploma de la escuela náutica o academia marítima.</li></ul><p>3. Acceso a la plataforma (luego de completar)<br>\nPara ingresar y actualizar tu información personal y profesional, usa el enlace del correo que el sistema te envió automáticamente al registrarte.</p><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 26.41,
+    "max": 26.41,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "unpublishOn": "2026-12-14T05:00:00.000Z",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990017074286",
+   "name": "ESPECIALISTA EN SIMULACIÓN DE SISTEMAS ACUÁTICOS ",
+   "uuid": "3611b214-6f37-4d0a-abf7-48a8d4195a2d",
+   "jobId": "79f15f97-125f-4a9f-a144-8122c0213287",
+   "jobAdId": "441261bd-6f28-43ff-a750-e233d38968c4",
+   "defaultJobAd": true,
+   "refNumber": "ESP EN SIMUL DE SIST ACUÁTICOS NM.00.11 HIM-SC 184186",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "320239.SUPV, ESPEC PROTEC AMBIENTAL.00280.001.6",
+     "valueLabel": "320239.SUPV, ESPEC PROTEC AMBIENTAL.00280.001.6"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.11",
+     "valueLabel": "NM.00.11"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "5ea6283b-fa11-4a61-91b3-f5ae56fff344",
+     "valueLabel": "Ciencias ambientales e investigación"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "e09b08a8-0f16-4277-a09b-da28257eff66",
+     "valueLabel": "PACÍFICO"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "268fdde6-c1eb-4dde-8a3d-e4bce560bacd",
+     "valueLabel": "HIM-SC"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2716712",
+     "valueLabel": "2716712"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "184186"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "HI",
+     "valueLabel": "HI"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "df1c706f-2506-429f-b936-4414bfba2a31",
+     "valueLabel": "DOMINGUEZ ORTIZ, IVAN"
+    }
+   ],
+   "releasedDate": "2026-11-24T20:55:40.587Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017074286-especialista-en-simulacion-de-sistemas-acuaticos-",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017074286-especialista-en-simulacion-de-sistemas-acuaticos-?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/3611b214-6f37-4d0a-abf7-48a8d4195a2d?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El Especialista en Simulación de Sistemas Acuáticos es responsable de realizar simulaciones numéricas y modelaciones de sistemas acuáticos complejos para apoyar la toma de decisiones relacionadas con el manejo sostenible de los recursos hídricos del Canal de Panamá. Su labor se enfoca en el análisis de la intrusión de agua salada, la calidad del agua y la dinámica de los sistemas acuáticos, utilizando herramientas avanzadas de modelación, simulación y análisis de datos ambientales. Además, contribuye a la evaluación de medidas operativas y estructurales para proteger los sistemas acuáticos y garantizar la sostenibilidad ambiental de las operaciones del Canal.</p><p>Funciones principales:</p><ul><li>Realizar simulaciones numéricas y modelaciones de sistemas acuáticos para evaluar la intrusión de agua salada, la dinámica hídrica y los procesos ambientales asociados.</li><li>Utilizar, modificar y optimizar modelos de calidad del agua y herramientas especializadas para apoyar la gestión sostenible del recurso hídrico.</li><li>Desarrollar, coordinar y analizar programas de monitoreo, vigilancia y seguimiento de la calidad del agua, incluyendo la recopilación, procesamiento e interpretación de datos ambientales.</li><li>Evaluar y recomendar medidas operativas y estructurales para el control de la intrusión salina y la protección de los sistemas acuáticos.</li><li>Preparar informes técnicos, análisis especializados y presentaciones para apoyar la toma de decisiones y el cumplimiento de los programas ambientales.</li></ul><p><strong>Tipo de contratación: Temporal.</strong></p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Licencia de conducir vigente.</li><li>Dominio del idioma inglés a nivel intermedio&#xa0;(Hablar, leer y escribir).</li><li>Saber nadar.</li></ul><p><em>Educación:</em></p><p>Título universitario en una de estas disciplinas: Biología, Ciencias Ambientales, Ecología, Hidroinformática, Ingeniería Civil, Ingeniería Hidráulica, Ingeniería de Costas, Oceánica u otras disciplinas orientadas al estudio y gestión de sistemas acuáticos y manejo sostenible del agua.</p><p>&#xa0;</p><p><em>Experiencia:</em></p><p>Qué necesitas: tres (3) años o más de experiencia profesional especializada en tu disciplina.</p><ul><li>Modelación y simulación de sistemas acuáticos complejos, incluyendo el análisis de procesos hidrodinámicos, calidad del agua, transporte de sedimentos, corrientes de densidad e intrusión salina.</li><li>Desarrollo, implementación, calibración y optimización de modelos numéricos e hidroinformáticos para evaluar el comportamiento de cuerpos de agua continentales, embalses, cuencas hidrográficas y otros sistemas acuáticos.&#xa0;</li><li>Monitoreo, vigilancia, análisis e interpretación de información relacionada con la calidad del agua y los recursos hídricos, incluyendo programas de muestreo, seguimiento ambiental y aseguramiento de la calidad de los datos.&#xa0;</li><li>Procesamiento, análisis e interpretación de datos hidrológicos, ambientales, hidrometeorológicos y de calidad del agua mediante herramientas estadísticas, computacionales y de simulación para apoyar la toma de decisiones.</li><li>Aplicación de herramientas especializadas para modelación y análisis de sistemas acuáticos tales como HEC, Delft-3D, Delft-FEWS, FLOW3D, MATLAB, SIG u otras tecnologías similares orientadas a la gestión sostenible del recurso hídrico.&#xa0;</li><li>Elaboración de informes técnicos, estudios especializados, evaluaciones ambientales y recomendaciones para la planificación, conservación y gestión de recursos hídricos y ecosistemas acuáticos.&#xa0;</li><li>Participación en proyectos interdisciplinarios relacionados con la sostenibilidad ambiental, el manejo de cuencas hidrográficas, la calidad del agua y la protección de los recursos naturales.</li></ul><p><strong>Información adicional</strong></p><p><em>Conocimientos y habilidades</em></p><ul><li><em>Conocimiento en m</em>ecánica de fluidos e hidrodinámica, hidroinformática y modelación de sistemas acuáticos.</li><li>Conocimiento en procesos costeros y transporte de sedimentos.</li><li>Conocimiento en estadística, análisis probabilístico y métodos numéricos.</li><li>Conocimiento en muestreo y análisis de calidad del agua, química, hidrología y biología aplicadas a recursos hídricos.</li><li>Conocimiento en dinámica de sistemas acuáticos y fenómenos asociados a la intrusión salina.</li><li>Conocimiento en el uso de herramientas especializadas como HEC, FLOW3D, Delft-3D, Delft-FEWS, WANDALocks, COSUMO, MATLAB y MS Excel.</li><li>Conocimiento en Sistemas de Información Geográfica (SIG) y herramientas de visualización de datos y programas de diseño asistido por computadora (CAD).</li><li>Manejo de legislación, reglamentos y estándares ambientales aplicables a la gestión de recursos hídricos y calidad del agua.</li><li>Conocimiento en el análisis multivariable de datos ambientales y preparación de informes técnicos.</li><li>Deseable conocimiento y experiencia en inteligencia artificial (IA), aprendizaje automático (ML), redes neuronales (RNA), minería de datos (DM), sistemas difusos (SD) y modelado basado en agentes (MBA/MSA).</li></ul><p>Competencias:</p><ul><li>Pensamiento analítico.</li><li>Resolución de problemas complejos.</li><li>Innovación y creatividad técnica.</li><li>Planificación y gestión de proyectos.</li><li>Comunicación asertiva.</li></ul><p>&#xa0;</p>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>El trabajo se realiza principalmente en oficinas con aire acondicionado.</li><li>Requiere visitas periódicas a sitios de campo para actividades de muestreo e inspección.</li><li>Se requiere caminar, escalar, permanecer de pie y agacharse durante actividades de campo.</li><li>Durante las inspecciones y muestreos, puede existir exposición a condiciones ambientales que requieren el uso de equipo de protección personal.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.<ul><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul></li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 24.75,
+    "max": 24.75,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "unpublishOn": "2026-12-01T05:00:00.000Z",
    "industry": {
     "id": "maritime",
     "label": "Maritime"
