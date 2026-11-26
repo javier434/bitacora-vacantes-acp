@@ -1,6 +1,6 @@
 {
- "descargado": "2026-11-24T23:52:23-05:00",
- "totalFound": 8,
+ "descargado": "2026-11-25T23:06:44-05:00",
+ "totalFound": 10,
  "postings": [
   {
    "id": "3743990015246656",
@@ -1147,6 +1147,310 @@
    "active": true,
    "visibility": "PUBLIC",
    "unpublishOn": "2026-12-01T05:00:00.000Z",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990017095776",
+   "name": "CUSTODIO Y MANIPULADOR DE MATERIALES Y HERRAMIENTAS",
+   "uuid": "371569bb-e15c-40f2-b409-dcd96f8853d7",
+   "jobId": "afdd59ec-506d-4938-8e5c-465bbae12bd8",
+   "jobAdId": "55cd59b8-f01f-4df4-9953-10a1d336b577",
+   "defaultJobAd": true,
+   "refNumber": "CUST Y MANIP DE MATER Y HERRAM MG.00.05 OPRM-AT 184882",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Colón",
+    "region": "Colón",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Colón, Colón, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "373427.JEFE MÁQ ENCARG DE EQ FLOTANTE.58010.051.7",
+     "valueLabel": "373427.JEFE MÁQ ENCARG DE EQ FLOTANTE.58010.051.7"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "MG.00.05",
+     "valueLabel": "MG.00.05"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "aab838ce-b431-47e5-86da-4e788e2b915c",
+     "valueLabel": "Servicios generales y apoyo"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "cfb69176-2886-485d-a002-09828a197af0",
+     "valueLabel": "ATLÁNTICO"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "a2a930d5-5bbb-4407-9373-758a88bfdfc3",
+     "valueLabel": "OPRM-AT"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2354870",
+     "valueLabel": "2354870"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "184882"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "OP",
+     "valueLabel": "OP"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "67bd2c56-617a-4b37-85e2-b140bb952575",
+     "valueLabel": "WATERMAN BURKE, VICTOR ERNESTO"
+    }
+   ],
+   "releasedDate": "2026-11-25T19:07:55.490Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017095776-custodio-y-manipulador-de-materiales-y-herramientas",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017095776-custodio-y-manipulador-de-materiales-y-herramientas?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/371569bb-e15c-40f2-b409-dcd96f8853d7?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El puesto de Custodio y Manipulador de Materiales y Herramientas&#xa0;es responsable del recibo, almacenaje, despacho y distribución de artículos, mercancías, repuestos, materiales e insumos requeridos para garantizar la disponibilidad y el adecuado funcionamiento de los equipos flotantes de la organización.&#xa0;Además, contribuye al mantenimiento de inventarios precisos, la adecuada conservación de los materiales almacenados y la movilización segura de mercancías mediante el uso de equipos de manejo de materiales, garantizando la disponibilidad oportuna de los recursos y el cumplimiento de los procedimientos establecidos.</p><p>Funciones principales:&#xa0;</p><ul><li>Recibir, descargar, verificar y procesar materiales, mercancías y suministros.</li><li>Organizar, almacenar, identificar y preservar mercancías en las áreas designadas.</li><li>Participar en inventarios, verificaciones y control de existencias.</li><li>Preparar, despachar y distribuir materiales, herramientas y suministros.</li><li>Operar montacargas para movilizar materiales y apoyar las operaciones de almacén</li></ul><p>Tipo de contratación: Temporal.&#xa0;</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Saber nadar.&#xa0;</li><li>Saber leer inglés para identificar materiales, descripciones y documentos de inventario.</li><li>Obtener permiso para operar montacargas con capacidad de hasta 10,000 libras dentro de los primeros 90 días de contratación.</li></ul><p><em>Experiencia de seis (6) meses o más en:</em></p><ul><li>Recibo, despacho y distribución de materiales o mercancías.</li><li>Almacenaje y control de inventarios.</li><li>Manipulación y movimiento de materiales.</li><li>Operación de equipos para manejo de materiales o actividades de almacén.</li><li>Custodia y organización de herramientas, suministros o repuestos.</li></ul><p><em>Conocimientos en:</em></p><ul><li>Conocimiento de la distribución, almacenamiento y manejo de suministros, materiales y herramientas.</li><li>&#xa0;Conocimiento del manejo seguro de materiales y productos, incluyendo materiales peligrosos cuando la asignación lo requiera.</li><li>&#xa0;Conocimientos básicos de computación para ingresar y actualizar inventarios, procesar órdenes, confeccionar formularios y utilizar sistemas digitales de gestión de inventarios, así como aplicaciones comúnmente utilizadas en oficina, tales como Microsoft Word, Excel, Outlook y PowerPoint.</li><li>Capacidad para leer inglés básico a fin de identificar materiales, comprender descripciones de productos y consultar catálogos e inventarios.</li><li>Conocimiento básico de sistemas de administración de activos e inventarios utilizados para el control y despacho de materiales.</li></ul><p><em>Competencias:</em></p><ul><li>Trabajo en equipo.</li><li>Atención a la seguridad.</li><li>Responsabilidad.</li><li>Seguimiento de procedimientos e instrucciones.</li><li>Manejo y cuidado de herramientas y equipos.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Puede requerir trabajar fuera de horas laborables.</li><li>El trabajo se realiza en almacenes, áreas abiertas, jaulas y contenedores, así como en distintas condiciones climáticas.</li><li>Requiere exposición frecuente a materiales, herramientas, equipos y actividades de manejo de carga, utilizando el equipo de protección personal correspondiente.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>&#xa0;Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 8.78,
+    "max": 8.78,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "unpublishOn": "2026-12-02T05:00:00.000Z",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990017095795",
+   "name": "CUSTODIO Y MANIPULADOR DE MATERIALES Y HERRAMIENTAS",
+   "uuid": "d39fd71b-a497-42ce-937c-1bc422e5a361",
+   "jobId": "43b993ad-fb73-4489-8b0d-76107b6740c2",
+   "jobAdId": "f34dd14b-9fed-4402-b07c-285a7ea0f349",
+   "defaultJobAd": true,
+   "refNumber": "CUST Y MANIP DE MATER Y HERRAM MG.00.05 OPRM-PA 184881",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panamá",
+    "region": "Panamá",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Panamá, Panamá, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "373482.JEFE MÁQ ENCARG DE EQ FLOTANTE.58010.051.7",
+     "valueLabel": "373482.JEFE MÁQ ENCARG DE EQ FLOTANTE.58010.051.7"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "MG.00.05",
+     "valueLabel": "MG.00.05"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "3d3391d3-7158-477a-a010-e2a282cae28e",
+     "valueLabel": "Temporal"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "aab838ce-b431-47e5-86da-4e788e2b915c",
+     "valueLabel": "Servicios generales y apoyo"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "e09b08a8-0f16-4277-a09b-da28257eff66",
+     "valueLabel": "PACÍFICO"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "05748ce1-96e6-4170-9625-88cf05f17301",
+     "valueLabel": "OPRM-PA"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2280311",
+     "valueLabel": "2280311"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "184881"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "OP",
+     "valueLabel": "OP"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "62548e16-fa16-40e0-9ff5-fba9f250b06e",
+     "valueLabel": "CHIARI LOPEZ, JOSE RAMON"
+    }
+   ],
+   "releasedDate": "2026-11-25T19:09:05.768Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017095795-custodio-y-manipulador-de-materiales-y-herramientas",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017095795-custodio-y-manipulador-de-materiales-y-herramientas?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/d39fd71b-a497-42ce-937c-1bc422e5a361?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El puesto de Custodio y Manipulador de Materiales y Herramientas&#xa0;es responsable del recibo, almacenaje, despacho y distribución de artículos, mercancías, repuestos, materiales e insumos requeridos para garantizar la disponibilidad y el adecuado funcionamiento de los equipos flotantes de la organización.&#xa0;Además, contribuye al mantenimiento de inventarios precisos, la adecuada conservación de los materiales almacenados y la movilización segura de mercancías mediante el uso de equipos de manejo de materiales, garantizando la disponibilidad oportuna de los recursos y el cumplimiento de los procedimientos establecidos.</p><p>Funciones principales:&#xa0;</p><ul><li>Recibir, descargar, verificar y procesar materiales, mercancías y suministros.</li><li>Organizar, almacenar, identificar y preservar mercancías en las áreas designadas.</li><li>Participar en inventarios, verificaciones y control de existencias.</li><li>Preparar, despachar y distribuir materiales, herramientas y suministros.</li><li>Operar montacargas para movilizar materiales y apoyar las operaciones de almacén</li></ul><p>Tipo de contratación: Temporal.&#xa0;</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Saber nadar.&#xa0;</li><li>Saber leer inglés para identificar materiales, descripciones y documentos de inventario.</li><li>Obtener permiso para operar montacargas con capacidad de hasta 10,000 libras dentro de los primeros 90 días de contratación.</li></ul><p><em>Experiencia de seis (6) meses o más en:</em></p><ul><li>Recibo, despacho y distribución de materiales o mercancías.</li><li>Almacenaje y control de inventarios.</li><li>Manipulación y movimiento de materiales.</li><li>Operación de equipos para manejo de materiales o actividades de almacén.</li><li>Custodia y organización de herramientas, suministros o repuestos.</li></ul><p><em>Conocimientos en:</em></p><ul><li>Conocimiento de la distribución, almacenamiento y manejo de suministros, materiales y herramientas.</li><li>&#xa0;Conocimiento del manejo seguro de materiales y productos, incluyendo materiales peligrosos cuando la asignación lo requiera.</li><li>&#xa0;Conocimientos básicos de computación para ingresar y actualizar inventarios, procesar órdenes, confeccionar formularios y utilizar sistemas digitales de gestión de inventarios, así como aplicaciones comúnmente utilizadas en oficina, tales como Microsoft Word, Excel, Outlook y PowerPoint.</li><li>Capacidad para leer inglés básico a fin de identificar materiales, comprender descripciones de productos y consultar catálogos e inventarios.</li><li>Conocimiento básico de sistemas de administración de activos e inventarios utilizados para el control y despacho de materiales.</li></ul><p><em>Competencias:</em></p><ul><li>Trabajo en equipo.</li><li>Atención a la seguridad.</li><li>Responsabilidad.</li><li>Seguimiento de procedimientos e instrucciones.</li><li>Manejo y cuidado de herramientas y equipos.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Puede requerir trabajar fuera de horas laborables.</li><li>El trabajo se realiza en almacenes, áreas abiertas, jaulas y contenedores, así como en distintas condiciones climáticas.</li><li>Requiere exposición frecuente a materiales, herramientas, equipos y actividades de manejo de carga, utilizando el equipo de protección personal correspondiente.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>&#xa0;Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "min": 8.78,
+    "max": 8.78,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "unpublishOn": "2026-12-02T05:00:00.000Z",
    "industry": {
     "id": "maritime",
     "label": "Maritime"
