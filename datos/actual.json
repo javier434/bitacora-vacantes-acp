@@ -1,5 +1,5 @@
 {
- "descargado": "2026-11-25T23:06:44-05:00",
+ "descargado": "2026-11-26T23:11:41-05:00",
  "totalFound": 10,
  "postings": [
   {
@@ -246,160 +246,6 @@
     "code": "es-MX",
     "label": "Spanish (LATAM)",
     "labelNative": "español (LATAM)"
-   }
-  },
-  {
-   "id": "3743990016945696",
-   "name": "ADMINISTRADOR DE PROYECTOS",
-   "uuid": "72cd75aa-06d8-42d3-8420-73068c5d229f",
-   "jobId": "80564a06-a490-4234-8b49-c67f36faca24",
-   "jobAdId": "f16a8236-72e3-4cfc-86da-8b5bc3b2fbd2",
-   "defaultJobAd": true,
-   "refNumber": "ADMINISTRADOR DE PROYECTOS NM.00.13 IN-R 178547",
-   "company": {
-    "name": "Autoridad del Canal de Panamá",
-    "identifier": "AutoridadDelCanalDePanama1"
-   },
-   "location": {
-    "city": "Panama City",
-    "region": "Panamá Province",
-    "country": "pa",
-    "remote": false,
-    "hybrid": false,
-    "latitude": "8.9823792",
-    "longitude": "-79.51986959999999",
-    "fullLocation": "Panama City, Panamá Province, Panama"
-   },
-   "customField": [
-    {
-     "fieldId": "69613cf3df7ab15dc6353885",
-     "fieldLabel": "Cargo del supervisor",
-     "valueId": "c05a62fe-fcec-48e1-9d02-60c80be35b66",
-     "valueLabel": "990034.SUPV GESTIÓN DE REC Y CALIDAD.03010.717.9"
-    },
-    {
-     "fieldId": "696140a6ac313c4a8eb1c7ab",
-     "fieldLabel": "Grado",
-     "valueId": "NM.00.13",
-     "valueLabel": "NM.00.13"
-    },
-    {
-     "fieldId": "COUNTRY",
-     "fieldLabel": "Country/Region",
-     "valueId": "pa",
-     "valueLabel": "Panama"
-    },
-    {
-     "fieldId": "6961433107d1a3c0c8411e50",
-     "fieldLabel": "Tipo de Contratación del puesto",
-     "valueId": "49244aca-274a-41b0-a5d4-6f2361f2ffa4",
-     "valueLabel": "Permanente"
-    },
-    {
-     "fieldId": "69613ba2ac313c4a8eb1c7a9",
-     "fieldLabel": "Categoría de trabajo",
-     "valueId": "f0abe381-bd2b-4932-b8a4-35a4a8a26601",
-     "valueLabel": "Administración y gestión de proyectos"
-    },
-    {
-     "fieldId": "6961436a07d1a3c0c8411e51",
-     "fieldLabel": "Área Geográfica",
-     "valueId": "e09b08a8-0f16-4277-a09b-da28257eff66",
-     "valueLabel": "PACÍFICO"
-    },
-    {
-     "fieldId": "696138dddf7ab15dc6353883",
-     "fieldLabel": "Siglas de oficina",
-     "valueId": "b4bd1c86-cbf1-475b-aa52-71c549bfe813",
-     "valueLabel": "IN-R"
-    },
-    {
-     "fieldId": "69456ee8350d3426ea4feebb",
-     "fieldLabel": "Brands",
-     "valueId": "default",
-     "valueLabel": "Autoridad del Canal de Panamá"
-    },
-    {
-     "fieldId": "69613f65ac313c4a8eb1c7aa",
-     "fieldLabel": "IP del Supervisor",
-     "valueId": "2268914",
-     "valueLabel": "2268914"
-    },
-    {
-     "fieldId": "696142ec07d1a3c0c8411e4f",
-     "fieldLabel": "Número de Ticket de IVANTI",
-     "valueLabel": "178547"
-    },
-    {
-     "fieldId": "69613a6cdf7ab15dc6353884",
-     "fieldLabel": "Vicepresidencia",
-     "valueId": "IN",
-     "valueLabel": "IN"
-    },
-    {
-     "fieldId": "69613daf07d1a3c0c8411e4d",
-     "fieldLabel": "Nombre del supervisor",
-     "valueId": "a8fcf795-c4a3-4dcd-9895-1555a6ce8d0c",
-     "valueLabel": "SANDOVAL ALMENGOR, DIXIELA DEL CARMEN"
-    }
-   ],
-   "releasedDate": "2026-11-18T19:28:40.115Z",
-   "creator": {
-    "name": "",
-    "avatarUrl": ""
-   },
-   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016945696-administrador-de-proyectos",
-   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990016945696-administrador-de-proyectos?oga=true",
-   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/72cd75aa-06d8-42d3-8420-73068c5d229f?dcr_ci=AutoridadDelCanalDePanama1",
-   "jobAd": {
-    "sections": {
-     "companyDescription": {
-      "title": "Descripción de la empresa",
-      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
-     },
-     "jobDescription": {
-      "title": "Descripción del empleo",
-      "text": "<p>El puesto es responsable de administrar proyectos de alta y mega complejidad, asegurando su alineación con la estrategia institucional del Canal de Panamá y garantizando el cumplimiento de los objetivos de negocio, ambientales y sociales mediante la planificación, ejecución, control y cierre efectivo de los proyectos.&#xa0;</p><p><strong>Funciones principales:</strong></p><ul><li>Administrar proyectos de alta y mega complejidad, asegurando el cumplimiento de alcance, cronograma, costos, calidad y objetivos estratégicos.</li><li>Gestionar cambios, riesgos, beneficios y dependencias del proyecto, promoviendo la toma de decisiones informada y la mitigación de impactos.</li><li>Liderar y coordinar equipos multidisciplinarios, fomentando la integración, colaboración y alineación con los objetivos del proyecto.</li><li>Gestionar la comunicación y coordinación con sponsors, comités directivos, autoridades regulatorias, proveedores y demás partes interesadas.</li><li>Supervisar la ejecución de las distintas etapas del proyecto, incluyendo factibilidad, formulación, ejecución y operación, garantizando la trazabilidad y cumplimiento de los estándares institucionales.</li></ul><p><strong>Tipo de contratación:</strong> Permanente.</p>"
-     },
-     "qualifications": {
-      "title": "Requisitos",
-      "text": "<ul><li>Nacionalidad panameña.</li><li>Inglés avanzado (hablar, leer y escribir).</li><li>Licencia de conducir vigente.</li></ul><p><em>Educación:</em></p><ul><li>Título universitario completo en Ingeniería o especialidades de ingeniería afines al área de desempeño.</li><li>Certificaciones internacionales en gestión de proyectos tales como PMP, PRINCE2, Agile o equivalentes son deseables.</li></ul><p><em>Experiencia especializada de 10 años o más en:</em></p><ul><li>Administración y gestión integral de proyectos, gestión de construcción y desarrollo de ingeniería, incluyendo la planificación, ejecución, seguimiento y control de proyectos&#xa0;de alta y mega complejidad.</li><li>Proyectos de infraestructura de gran escala, megaproyectos y greenfield.</li><li>Ejecución de proyectos en terreno,&#xa0;aplicando prácticas de aseguramiento de calidad, control de riesgos y evaluación de criterios técnicos, financieros y ambientales.</li><li>Dirección de negocios y metodologías de gestión de proyectos.</li><li>Administración de contratos bajo esquemas EPCM, EPC y EP/C.</li><li>Evaluación de Front-End Engineering Design (FEED).</li><li>Dominio avanzado de herramientas de Project management aplicadas a la gestión de alcance, costos, cronogramas, calidad, comunicaciones y riesgos.</li><li>Coordinación de equipos interdisciplinarios y la toma de decisiones en entornos de alta complejidad técnica, operativa y de negocios.&#xa0;</li></ul><p><em>Conocimientos en:</em></p><ul><li>Normas internacionales y de la ACP para contratación y gestión de proyectos.</li><li>Infraestructura, ingeniería y construcción.</li><li>Técnicas de valor ganado, indicadores de desempeño y análisis financiero y estadístico.</li><li>Herramientas de planificación y control como Primavera, SAP, SharePoint, Oracle, AutoCAD, Excel avanzado, Access y PowerPoint.&#xa0;</li></ul><p><em>Competencias requeridas:</em></p><ul><li>Liderazgo de equipos multidisciplinarios.</li><li>Comunicación ejecutiva efectiva.</li><li>Gestión de stakeholders.</li><li>Adaptabilidad ante situaciones cambiantes y nueva información.</li><li>Capacidad de negociación, análisis y toma de decisiones en entornos de alta complejidad.</li><li>Capacidad para manejar información sensible con altos niveles de confidencialidad, reserva y discreción.</li></ul>"
-     },
-     "additionalInformation": {
-      "title": "Información adicional",
-      "text": "<ul><li>Disponibilidad para realizar visitas de campo y desplazamientos según las necesidades del puesto.</li><li>Disponibilidad para trabajar fuera del horario regular cuando sea necesario para el cumplimiento de entregables y tareas asignadas.</li><li>Disponibilidad para trabajar en horarios vespertinos y/o nocturnos, fines de semana y días feriados.</li><li>Disponibilidad para trabajar de forma presencial, remota o híbrida, según las necesidades operativas.</li><li>Disponibilidad para viajar al sector Atlántico según las necesidades operativas.</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para-acceder y actualizar su información personal y profesional.</li><li><p>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:<br>\n&#xa0;&#xa0;&#xa0;&#xa0;• Experiencia relevante, cargo, funciones y logros. La hoja de vida debe tener un máximo de 2 páginas. No se considerarán hojas de vida ilegibles o difíciles de leer.<br>\n&#xa0;&#xa0;&#xa0;&#xa0;• Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</p></li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
-     }
-    }
-   },
-   "compensation": {
-    "min": 35.06,
-    "max": 35.06,
-    "currency": "PAB",
-    "period": "HOURLY"
-   },
-   "active": true,
-   "visibility": "PUBLIC",
-   "unpublishOn": "2026-11-26T05:00:00.000Z",
-   "industry": {
-    "id": "maritime",
-    "label": "Maritime"
-   },
-   "function": {
-    "id": "advertising",
-    "label": "Advertising"
-   },
-   "experienceLevel": {
-    "id": "director",
-    "label": "Director"
-   },
-   "typeOfEmployment": {
-    "id": "contract",
-    "label": "Contract"
-   },
-   "language": {
-    "code": "es",
-    "label": "Spanish",
-    "labelNative": "español"
    }
   },
   {
@@ -685,7 +531,7 @@
    },
    "active": true,
    "visibility": "PUBLIC",
-   "unpublishOn": "2026-12-02T05:00:00.000Z",
+   "unpublishOn": "2026-12-04T05:00:00.000Z",
    "industry": {
     "id": "maritime",
     "label": "Maritime"
@@ -1451,6 +1297,159 @@
    "active": true,
    "visibility": "PUBLIC",
    "unpublishOn": "2026-12-02T05:00:00.000Z",
+   "industry": {
+    "id": "maritime",
+    "label": "Maritime"
+   },
+   "function": {
+    "id": "advertising",
+    "label": "Advertising"
+   },
+   "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+   },
+   "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+   },
+   "language": {
+    "code": "es-MX",
+    "label": "Spanish (LATAM)",
+    "labelNative": "español (LATAM)"
+   }
+  },
+  {
+   "id": "3743990017107438",
+   "name": "ESPECIALISTA EN INFORMÁTICA (ADMINISTRACIÓN DE DATOS/ADMINISTRACIÓN DE SISTEMAS)",
+   "uuid": "f221c106-15b2-44f8-aee2-47755409cd9d",
+   "jobId": "7a6d4a2c-e2bc-4648-af96-aaf14fb18cbe",
+   "jobAdId": "1771a33c-1496-40e4-85f5-17f1a25d7c5a",
+   "defaultJobAd": true,
+   "refNumber": "ESP EN INFO (ADM DAT/ADM SIS) NM.00.09 TDC-CL 179510",
+   "company": {
+    "name": "Autoridad del Canal de Panamá",
+    "identifier": "AutoridadDelCanalDePanama1"
+   },
+   "location": {
+    "city": "Panama City",
+    "region": "Panamá Province",
+    "country": "pa",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "8.9823792",
+    "longitude": "-79.51986959999999",
+    "fullLocation": "Panama City, Panamá Province, Panama"
+   },
+   "customField": [
+    {
+     "fieldId": "69613cf3df7ab15dc6353885",
+     "fieldLabel": "Cargo del supervisor",
+     "valueId": "120430.SUP ESP INFO (ADM DAT/ADM SIS).22100.045.7",
+     "valueLabel": "120430.SUP ESP INFO (ADM DAT/ADM SIS).22100.045.7"
+    },
+    {
+     "fieldId": "696140a6ac313c4a8eb1c7ab",
+     "fieldLabel": "Grado",
+     "valueId": "NM.00.09",
+     "valueLabel": "NM.00.09"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "pa",
+     "valueLabel": "Panama"
+    },
+    {
+     "fieldId": "6961433107d1a3c0c8411e50",
+     "fieldLabel": "Tipo de Contratación del puesto",
+     "valueId": "49244aca-274a-41b0-a5d4-6f2361f2ffa4",
+     "valueLabel": "Permanente"
+    },
+    {
+     "fieldId": "69613ba2ac313c4a8eb1c7a9",
+     "fieldLabel": "Categoría de trabajo",
+     "valueId": "9b9d45e7-edbb-4f33-9378-0d2c1e87dada",
+     "valueLabel": "Tecnología, datos y transformación digital"
+    },
+    {
+     "fieldId": "6961436a07d1a3c0c8411e51",
+     "fieldLabel": "Área Geográfica",
+     "valueId": "e09b08a8-0f16-4277-a09b-da28257eff66",
+     "valueLabel": "PACÍFICO"
+    },
+    {
+     "fieldId": "696138dddf7ab15dc6353883",
+     "fieldLabel": "Siglas de oficina",
+     "valueId": "21f8f8e6-c37e-4360-b75b-000f25824c2b",
+     "valueLabel": "TDC-CL"
+    },
+    {
+     "fieldId": "69456ee8350d3426ea4feebb",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Autoridad del Canal de Panamá"
+    },
+    {
+     "fieldId": "69613f65ac313c4a8eb1c7aa",
+     "fieldLabel": "IP del Supervisor",
+     "valueId": "2817551",
+     "valueLabel": "2817551"
+    },
+    {
+     "fieldId": "696142ec07d1a3c0c8411e4f",
+     "fieldLabel": "Número de Ticket de IVANTI",
+     "valueLabel": "179510"
+    },
+    {
+     "fieldId": "69613a6cdf7ab15dc6353884",
+     "fieldLabel": "Vicepresidencia",
+     "valueId": "TD",
+     "valueLabel": "TD"
+    },
+    {
+     "fieldId": "69613daf07d1a3c0c8411e4d",
+     "fieldLabel": "Nombre del supervisor",
+     "valueId": "92928ca6-4f14-441a-8998-832e529c07ce",
+     "valueLabel": "GUERRA MARTINEZ, ALAN ABDIEL"
+    }
+   ],
+   "releasedDate": "2026-11-26T15:48:21.757Z",
+   "creator": {
+    "name": "",
+    "avatarUrl": ""
+   },
+   "postingUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017107438-especialista-en-informatica-administracion-de-datos-administracion-de-sistemas-",
+   "applyUrl": "https://jobs.smartrecruiters.com/AutoridadDelCanalDePanama1/3743990017107438-especialista-en-informatica-administracion-de-datos-administracion-de-sistemas-?oga=true",
+   "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/AutoridadDelCanalDePanama1/publication/f221c106-15b2-44f8-aee2-47755409cd9d?dcr_ci=AutoridadDelCanalDePanama1",
+   "jobAd": {
+    "sections": {
+     "companyDescription": {
+      "title": "Descripción de la empresa",
+      "text": "<p>El Canal de Panamá es una vía interoceánica clave al servicio del comercio mundial. Somos una organización líder en conectividad global, comprometida con la excelencia operativa, la innovación y la sostenibilidad, impulsada por su valioso equipo humano. Trabajar con nosotros significa contribuir de forma sostenible al progreso y la prosperidad de Panamá.</p>"
+     },
+     "jobDescription": {
+      "title": "Descripción del empleo",
+      "text": "<p>El titular administra los servicios de nube y plataformas implementados en el Canal de Panamá, brindando apoyo a los centros de datos y a los sistemas informáticos que respaldan la operación institucional. Es responsable de la planificación, implementación, mantenimiento, control y mejora continua de los entornos de nube, garantizando la disponibilidad, integridad, seguridad y eficiencia de los servicios tecnológicos.&#xa0;</p><p>Funciones principales:</p><ul><li>Administrar servicios de nube tipo IaaS, PaaS y SaaS, así como entornos multinube, sistemas de mensajería y herramientas de colaboración.</li><li>Planificar, implementar, mantener y controlar los servicios de nube y plataformas, asegurando su disponibilidad, funcionalidad e integridad.</li><li>Coordinar esfuerzos con grupos técnicos internos, proveedores y otras áreas para la implementación de iniciativas tecnológicas y de transformación digital.</li><li>Implementar y apoyar programas de ciberseguridad, incluyendo procesos de parchado, controles de seguridad y atención de hallazgos de auditoría.</li><li>Evaluar nuevas tecnologías y oportunidades de mejora para optimizar la infraestructura y los servicios tecnológicos.&#xa0;</li></ul><p>Tipo de contratación: Permanente.</p>"
+     },
+     "qualifications": {
+      "title": "Requisitos",
+      "text": "<ul><li>Nacionalidad panameña.</li><li>Inglés intermedio (Hablar, leer y escribir)</li><li>Poseer licencia de conducir vigente.</li></ul><p><br>\n&#xa0;</p><p><em>Educación</em></p><ul><li>Título completo de licenciatura en Informática, Ingeniería Informática, Sistemas de Información, Ingeniería de Sistemas o disciplinas afines relacionadas con la administración de datos y sistemas.&#xa0;</li></ul><p><br>\n<br>\n&#xa0;</p><p><em>Experiencia de dos (2) años o más en:</em></p><ul><li>Administración de servicios de nube (IaaS, PaaS y SaaS).</li><li>Gestión y administración de entornos multinube.</li><li>Administración de plataformas de mensajería y servicios de directorio.</li><li>Implementación y administración de infraestructura tecnológica, servidores físicos y virtuales.</li><li>Gestión de ciberseguridad, parchados, actualizaciones y soporte a sistemas críticos.&#xa0;</li></ul><p><br>\n&#xa0;</p><p><em>Conocimientos en:</em></p><ul><li>Gestión de entornos multinube.</li><li>Redes y telecomunicaciones.</li><li>Ciberseguridad.</li><li>Sistemas de mensajería en premisa y en la nube (MS Exchange y Exchange Online).</li><li>Servicios de directorio (Active Directory, Azure AD y AD Federation Services).</li><li>Sistemas operativos Windows y Linux.</li><li>Administración y operación de plataformas de servidores físicos y virtuales.</li><li>Arquitectura de sistemas.</li><li>Mejores prácticas ITIL para administración de servicios de infraestructura tecnológica.&#xa0;</li></ul><p><br>\n<br>\n<em>Competencias requeridas:</em></p><ul><li>Análisis y solución de problemas técnicos complejos.</li><li>Planificación y organización del trabajo.</li><li>Coordinación y trabajo colaborativo.</li><li>Adaptabilidad e innovación tecnológica.</li><li>Orientación a la seguridad y continuidad operativa.</li></ul>"
+     },
+     "additionalInformation": {
+      "title": "Información adicional",
+      "text": "<ul><li>Disponibilidad para atender llamadas de emergencia y trabajar fuera del horario regular para atender asuntos urgentes relacionados con sus responsabilidades.</li><li>Requiere movilizarse a distintas áreas para inspecciones, reuniones y atención de actividades relacionadas con el puesto.</li><li>Ocasionalmente requiere visitas al campo para inspeccionar el avance de proyectos.&#xa0;</li><li>Como parte del proceso de selección, los candidatos que cumplan con todos los requisitos del puesto serán convocados a realizar pruebas de evaluación en línea y/o presencial, de acuerdo con las etapas y plazos establecidos.</li><li>Adjuntar documentación: Recuerde adjuntar los documentos requeridos, tales como títulos universitarios, licencia de conducir e idoneidad, en caso de que estos formen parte de los requisitos del puesto al que está aplicando.</li><li>Acceso y actualización de información: Puede ingresar a la plataforma a través del correo inicial enviado automáticamente por el sistema, el cual contiene el enlace para acceder y actualizar su información personal y profesional.</li><li>Contenido de la hoja de vida: Para aplicar a un puesto de trabajo, debe presentar una hoja de vida que incluya:</li><li>Experiencia relevante, cargo, funciones y logros. No se considerarán hojas de vida ilegibles o difíciles de leer.</li><li>Debe detallar cada experiencia laboral para respaldar los requisitos mínimos, incluyendo: nombre del empleador, fechas de inicio y fin (Mes/Año).</li></ul><div sr-tagline=\"\"></div><p>¡Reclutamos y promovemos a los mejores!</p><p>Los anuncios sobre nuestras oportunidades de empleo son publicados únicamente en nuestro sitio web oficial pancanal.com, en la sección empleos y a través de nuestra cuenta empresarial en&#xa0;la plataforma Linkedln.</p><p>El Canal de Panamá no cobra por el uso del Portal de Empleos, por lo que te invitamos a conocer los detalles de las oportunidades de empleo utilizando únicamente los sitios oficiales. Recomendamos&#xa0;que, al registrarte, no compartas tu información de acceso y contraseñas con terceros para evitar ser víctima de fraude.</p><p>Toda nuestra comunicación proviene de correos oficiales que finalizan en @pancanal.com</p>"
+     }
+    }
+   },
+   "compensation": {
+    "max": 20.68,
+    "currency": "PAB",
+    "period": "HOURLY"
+   },
+   "active": true,
+   "visibility": "PUBLIC",
+   "unpublishOn": "2026-12-04T05:00:00.000Z",
    "industry": {
     "id": "maritime",
     "label": "Maritime"
